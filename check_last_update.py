@@ -12,6 +12,7 @@ from datetime import datetime, timezone, timedelta
 
 import urllib.request
 import urllib.error
+import urllib.parse
 from email.utils import parsedate_to_datetime
 
 TIMEOUT = 15
@@ -21,6 +22,19 @@ RSS_NAMESPACES = {
     'atom': 'http://www.w3.org/2005/Atom',
     'dc': 'http://purl.org/dc/elements/1.1/',
 }
+
+def get_domain(url):
+    """Extract domain from URL."""
+    parsed = urllib.parse.urlparse(url)
+    return parsed.netloc.lower()
+
+# Blacklist of feeds that are known to be inaccessible or problematic.
+# Or which use fake timestamps(e.g update time every day but no new post).
+BLACK_LIST = [
+    "https://www.ruanchaomin.com/"
+]
+
+BLACK_LIST_DOMAINS = {get_domain(url) for url in BLACK_LIST}
 
 
 def parse_readme(path='README.md'):
@@ -256,6 +270,10 @@ def check_entry(entry):
     if feed_url is None:
         return entry, '-', '-'
 
+    domain = get_domain(feed_url)
+    if domain in BLACK_LIST_DOMAINS:
+        return entry, '-', '-'
+
     data, err = fetch_feed(feed_url)
     if err or data is None:
         return entry, 'x', 'x'
@@ -288,7 +306,7 @@ def write_results(path, now, results):
     lines = [
         '# Last Updated\n',
         f'> Generated at {now}\n',
-        '> - `-` : no feed URL\n',
+        '> - `-` : no feed URL or blacklisted\n',
         '> - `x` : feed inaccessible or parse error\n\n',
         '| RSS feed | Introduction | Address | tags | last_updated | last_post |\n',
         '| --- | --- | --- | --- | --- | --- |\n',

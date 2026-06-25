@@ -1,12 +1,12 @@
 # Last Updated
-> Generated at 2026-06-25 01:31 UTC
-> - `-` : no feed URL
+> Generated at 2026-06-29 09:45 UTC
+> - `-` : no feed URL or blacklisted
 > - `x` : feed inaccessible or parse error
 
 | RSS feed | Introduction | Address | tags | last_updated | last_post |
 | --- | --- | --- | --- | --- | --- |
 | [Feed](https://blog.t9t.io/atom.xml) | 透明创业实验 | https://blog.t9t.io | 创业; 编程; 开源 | 2025/11/21 08:04:26 | Open Prompt 发布一个月总结 |
-| [Feed](http://feeds.feedburner.com/ruanyifeng) | 阮一峰的网络日志 | https://www.ruanyifeng.com/blog/ | 创业; 编程; 前端 | 2026/06/11 23:26:08 | 科技爱好者周刊（第 400 期）：rsync 的争论 |
+| [Feed](http://feeds.feedburner.com/ruanyifeng) | 阮一峰的网络日志 | https://www.ruanyifeng.com/blog/ | 创业; 编程; 前端 | 2026/06/26 00:05:38 | 科技爱好者周刊（第 401 期）：如何赚到10亿美元 |
 | [Feed](http://coolshell.cn/feed) | 酷 壳 – CoolShell | https://coolshell.cn | 编程 | 2023/05/08 09:52:06 | 是微服务架构不香还是云不香？ |
 | [Feed](http://www.zhangxinxu.com/wordpress/?feed=rss2) | 张鑫旭-鑫空间-鑫生活 | https://www.zhangxinxu.com/ | 编程; 前端 | 2026/06/24 12:05:10 | CSS color-scheme属性与light-dark()颜色函数 |
 | [Feed](https://alili.tech/index.xml) | Alili丶前端大爆炸 | https://alili.tech | 编程; 前端 | x | x |
@@ -14,7 +14,7 @@
 | [Feed](https://diygod.me/atom.xml) | DIYGod - 写代码是热爱，写到世界充满爱! | https://diygod.me | 编程; 开源 | x | x |
 | [Feed](http://macshuo.com/?feed=rss2) | MacTalk-池建强的随想录 | http://macshuo.com | 编程; iOS | 2026/06/15 05:20:53 | 两小时用智谱 glm 5.2 实现了 CatReader 的移动微信版 |
 | [Feed](http://shrekshao.github.io/feed.xml) | ShrekShao | https://shrekshao.github.io/ | 编程 | 2021/02/24 00:00:00 | 更新了吴健雄院队和健雄杯的网站 |
-| [Feed](http://blog.codingnow.com/atom.xml) | 云风的 BLOG | https://blog.codingnow.com | 编程 | 2026/06/13 13:28:52 | 对基本有序的序列排序算法 |
+| [Feed](http://blog.codingnow.com/atom.xml) | 云风的 BLOG | https://blog.codingnow.com | 编程 | 2026/06/25 14:47:53 | 从猎户座之王到群星 |
 | [Feed](https://reorx.com/feed.xml) | Reorx’s Forge | https://reorx.com/ | 数字生活; 产品思考; 生产力工具; 软件开发 | 2026/02/11 04:00:00 | My OpenClaw Desperately Needs a DevOps Agent |
 | [Feed](https://zddhub.com/feed) | ZDDHUB 的博客 | https://zddhub.com/ | 编程 | 2024/11/26 00:00:00 | PixelsMeasure 开发第二年总结 |
 | [Feed](https://www.phodal.com/blog/feeds/rss/) | 全栈应用开发:精益实践 | https://www.phodal.com | 编程 | 2026/06/14 07:23:00 | 验证工程：从 Vibe 硬件编程 Loop 到自迭代验证 |
@@ -42,14 +42,14 @@
 | [Feed](https://greatdk.com/feed) | 王登科-DK博客 | https://greatdk.com | 编程; 创业 | 2026/05/11 12:27:45 | 3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑 |
 | [Feed](https://chai2010.cn/index.xml) | chai2010 的博客 | https://chai2010.cn | 编程 | x | x |
 | [Feed](https://www.cnfeat.com/feed.xml) | 笨方法学写作 | https://www.cnfeat.com | 编程 | 2026/06/16 05:57:40 | Vibe Coding 的不为清单 |
-| [Feed](https://jimmysong.io/index.xml) | 云原生 | https://jimmysong.io | 编程 | 2026/06/20 05:43:26 | Every Nation Begins with Textiles |
+| [Feed](https://jimmysong.io/index.xml) | 云原生 | https://jimmysong.io | 编程 | 2026/06/24 14:30:00 | Olares and HAMi: A New Inflection Point for Desktop AI Workstations |
 | [Feed](http://hawstein.com/feed.xml) | Hawstein's Blog | https://hawstein.com/ | 编程 | 2025/08/13 00:00:00 | 从一期播客说起 |
 | [Feed](http://www.skywind.me/blog/feed) | Skywind Inside | https://www.skywind.me/blog/ | 编程 | 2026/05/02 12:25:00 | 在 Vim 里实现可定制表单对话框 |
 | [Feed](http://www.shuizilong.com/house/feed/) | 某岛 | http://www.shuizilong.com/house | 编程 | 2026/06/04 06:41:04 | 星舰狩猎者评测 |
 | [Feed](http://www.chenshake.com/feed/) | 陈沙克日志 | http://www.chenshake.com | 编程 | x | x |
 | [Feed](http://chinese.catchen.me/feeds/posts/default) | Cat in Chinese | https://chinese.catchen.me | 编程 | 2026/06/12 16:35:42 | 为什么 VOO 不会因为市场交易而长期偏离 S&P 500 |
 | [Feed](https://lutaonan.com/rss.xml) | Randy's Blog | https://lutaonan.com | 编程 | 2026/06/10 00:00:00 | 高考随想 |
-| [Feed](https://xiaozhou.net/atom.xml) | iTimothy | https://xiaozhou.net | 编程 | 2026/05/27 16:05:35 | 聊聊被动收入与躺赚 |
+| [Feed](https://xiaozhou.net/atom.xml) | iTimothy | https://xiaozhou.net | 编程 | 2026/06/28 14:52:32 | 聊聊被动收入与躺赚 |
 | [Feed](http://www.ideawu.net/blog/feed) | idea's blog | http://www.ideawu.net/blog | 编程 | x | x |
 | [Feed](http://xiaix.me/rss/) | xiaix's Blog | https://xiaix.me | 编程 | x | x |
 | [Feed](http://teddy-chen-tw.blogspot.com/feeds/posts/default) | 搞笑談軟工 | https://teddy-chen-tw.blogspot.com/ | 编程 | 2025/06/08 12:55:00 | 學習總在課堂後 |
@@ -80,7 +80,7 @@
 | [Feed](https://rsshub.app/blogs/wangyin) | 王垠的博客 | https://www.yinwang.org/ | 编程 | x | x |
 | [Feed](http://weiwuhui.com/feed) | 扯氮集 | http://weiwuhui.com/ | 创业; 人生 | 2024/05/11 06:17:53 | 百度的槽点到底在哪里 |
 | [Feed](https://blog.yxwang.me/index.xml) | Aiur · Zellux 的博客 | https://blog.yxwang.me/ | 编程; 智能家居 | 2020/06/27 01:36:00 | 组装一台家用服务器机架 |
-| [Feed](http://lukefan.com/?feed=rss2) | 硕鼠的博客站 | http://lukefan.com/ | 编程 | 2026/06/25 00:46:12 | 婴幼儿纸尿裤甲酰胺罗生门：孩子体内来源成谜？ |
+| [Feed](http://lukefan.com/?feed=rss2) | 硕鼠的博客站 | http://lukefan.com/ | 编程 | 2026/06/29 00:56:07 | 中国超算重回全球第一，超算和AI算力中心不是一回事，英伟达为什么在这一块不灵了？ |
 | [Feed](http://blog.xiayf.cn/feeds/rss.xml) | 黑·白 | http://blog.xiayf.cn/ | 编程 | x | x |
 | [Feed](https://hufangyun.com/atom.xml) | 小猿大圣 | https://hufangyun.com/ | 编程 | 2025/03/12 15:13:54 | macOS App 开发 iCloud 不同步问题解决 |
 | [Feed](https://jiongks.name/atom.xml) | 囧克斯 勾三股四 | https://jiongks.name | 编程; 开源; 前端 | 2025/12/31 10:22:39 | 奔四了，写给40岁的自己 |
@@ -92,11 +92,11 @@
 | [Feed](https://www.mifengtd.cn/feed.xml) | 褪墨・时间管理 | https://www.mifengtd.cn/ | 时间管理 | x | x |
 | None | 冰山一角 | https://cnberg.com | 编程; 旅行; 摄影 | - | - |
 | [Feed](http://www.52nlp.cn/feed) | 我爱自然语言处理 | https://www.52nlp.cn/ | 编程; 机器学习 | x | x |
-| [Feed](https://blog.devtang.com/atom.xml) | 唐巧的博客 | https://blog.devtang.com/ | 编程; 创业; iOS | 2026/06/18 15:02:44 | 玩教具行业的核心竞争力 |
+| [Feed](https://blog.devtang.com/atom.xml) | 唐巧的博客 | https://blog.devtang.com/ | 编程; 创业; iOS | 2026/06/29 03:32:30 | 理解 Skill —— 读《图解 Skill》 |
 | [Feed](https://onevcat.com/feed.xml) | OneV's Den | https://onevcat.com/ | 编程; iOS | 2026/06/07 12:56:58 | 和产品一起成长 - 从 AI 猫娘到 Prowl 终端 |
 | [Feed](https://blog.ibireme.com/feed/) | Garan no dou | https://blog.ibireme.com/ | 编程; 开源; iOS | 2017/09/01 10:42:21 | 记事 |
 | [Feed](http://feeds.kenengba.com/kenengbarss) | 可能吧 | https://kenengba.com/ | 创业 | 2024/01/24 12:06:59 | 那么，我是如何使用 ChatGPT 的 |
-| [Feed](https://colobu.com/atom.xml) | 鸟窝 | https://colobu.com/ | 编程 | 2026/06/24 04:31:37 | 告别死锁和陈旧语法、告别性能瓶颈：三个开源 Skill，新手Gopher 秒变 Go 语言大神 |
+| [Feed](https://colobu.com/atom.xml) | 鸟窝 | https://colobu.com/ | 编程 | 2026/06/28 06:46:22 | Go 语言技能：AI 时代的 Go 开发工具链 |
 | [Feed](http://feihu.me/blog/feed.atom) | libfeihu Blog | https://feihu.me/blog/ | 编程 | x | x |
 | [Feed](https://blog.niclin.tw/index.xml) | Nic Lin's Blog | https://blog.niclin.tw/ | 编程 | 2022/05/08 10:01:06 | 謝明真 - 高效領導力的課後筆記 |
 | [Feed](http://halfrost.com/rss/) | Halfrost's Field | https://halfrost.com/ | 编程 | 2021/12/20 07:33:00 | 后疫情时代下美国 CS Master 申请纪实 |
@@ -108,14 +108,14 @@
 | [Feed](http://feeds.feedburner.com/tualatrix) | I'm TualatriX | https://imtx.me | 编程; 开源 | 2025/07/23 02:37:04 | 记「乾坤大挪移」式使用双系统 |
 | [Feed](https://wujunze.com/index.xml) | Wujunze's Blog | https://wujunze.com | 编程; 架构; 旅行 | 2020/05/12 00:00:00 | Posts |
 | [Feed](https://wwj718.github.io/index.xml) | 夜行人 | https://wwj718.github.io | 编程; 教育; 随笔; 诗; 哲学 | 2026/03/21 00:00:00 | [译] "to program is to understand" -- 记录一段发生在 MicroBlocks 社区中围绕 AI 与编程的讨论 |
-| [Feed](http://feeds.feedburner.com/initiative) | Est's Blog | https://blog.est.im/ | 编程; 创业; 哲学 | 2026/06/20 04:06:22 | MacOS 快速插入当前时间 |
+| [Feed](http://feeds.feedburner.com/initiative) | Est's Blog | https://blog.est.im/ | 编程; 创业; 哲学 | 2026/06/26 01:40:00 | 我的 Vibe Coding 最佳实践——ADR文档 |
 | [Feed](https://www.hehuapei.com/feed) | Wiken | https://www.hehuapei.com | 编程; 随笔; 开源 | x | x |
 | [Feed](https://zh.fyi/rss.xml) | 炸裂志 | https://zh.fyi/ | 单车; 旅行; 播客; 摄影 | x | x |
-| [Feed](https://wocai.de/index.xml/) | kok的笔记本 | https://wocai.de | 编程; 摄影 | 2026/06/23 15:30:27 | node_modules 为什么总是这么大：一次从原理到实践的瘦身记录 |
+| [Feed](https://wocai.de/index.xml/) | kok的笔记本 | https://wocai.de | 编程; 摄影 | 2026/06/25 04:00:00 | 产品 |
 | [Feed](https://www.wujingquan.com/atom.xml) | 搞搞震 | https://www.wujingquan.com | 编程; 开源 | x | x |
 | [Feed](https://jaredtao.github.io/atom.xml) | Qt进阶之路-涛哥的博客 | https://jaredtao.github.io/ | 编程; Qt | 2022/04/06 01:55:39 | 玩转Qt(13)-安卓5.12.4环境搭建 |
 | [Feed](https://persumi.com/u/fredwu/feed/rss) | Fred Wu's Blog | https://persumi.com/u/fredwu | 编程; 开源; 摄影; 设计; 领导; 澳洲 | 2024/06/09 10:08:39 | Quick comparisons of Viture Pro and Xreal Air 2 Pro |
-| [Feed](https://youngxhui.top/index.xml) | ISLAND | https://youngxhui.top | 编程; 生活; 随笔 | 2026/05/18 16:00:00 | SugarLite 的 KMP 渐进式迁移实践 |
+| [Feed](https://youngxhui.top/index.xml) | ISLAND | https://youngxhui.top | 编程; 生活; 随笔 | 2026/06/25 16:00:00 | 轻糖的 KMP 渐进式迁移实践（二）：ViewModel、本地存储与平台抽象 |
 | [Feed](https://blog.heysh.xyz/feed.xml) | 贺叶霜的树 | https://blog.heysh.xyz/ | 开源; 生活 | 2026/04/06 14:14:46 | 关于蓝光刻录的一些调查 |
 | [Feed](https://www.frytea.com/index.xml) | Frytea's Blog | https://www.frytea.com | 编程; 思考; 高效 | x | x |
 | [Feed](https://lailin.xyz/atom.xml) | Mohuishou's Blog | https://lailin.xyz | 编程; Go | 2025/09/08 07:05:49 | 如何实现支持多集群的 Kubernetes Operator? |
@@ -126,11 +126,11 @@
 | [Feed](https://blog.p2hp.com/feed) | Lenix Blog | https://blog.p2hp.com/ | 编程; 后端; WEB开发 | x | x |
 | [Feed](https://www.ixiqin.com/feed/) | 西秦公子 | https://www.ixiqin.com/ | 编程; 开源 | 2026/06/24 10:06:29 | 我的 AI Coding Guide |
 | [Feed](https://hateonion.me/index.xml) | OnionTalk | https://hateonion.me | 编程; 前端; 随笔 | 2026/05/16 10:00:00 | Human Context Engineering |
-| [Feed](https://nicksxs.me/atom.xml) | Nicksxs's Blog | https://nicksxs.me | 编程; 后端; Java; PHP | 2026/06/21 12:42:27 | 浅析一下jpeg图片格式及其来源 |
+| [Feed](https://nicksxs.me/atom.xml) | Nicksxs's Blog | https://nicksxs.me | 编程; 后端; Java; PHP | 2026/06/28 14:18:00 | 从 app.test 到小锁：valet 本地 HTTPS 的完整链路 |
 | [Feed](https://www.capallen.top/atom.xml) | Allen's Blog | https://www.capallen.top | 编程; 数据科学 | x | x |
 | [Feed](http://yihui.name/cn/feed/) | 谢益辉 | https://yihui.name/cn/ | 编程; 统计学; 开源 | 2026/01/12 00:00:00 | 我心似海洋 |
 | [Feed](https://blog.farmostwood.net/feed) | 木遥的窗子 | https://blog.farmostwood.net/ | 数学; 小说; 随笔 | 2023/07/13 06:43:00 | 小写的牧歌 |
-| [Feed](https://www.changhai.org/feed.xml) | 卢昌海的个人主页 | https://www.changhai.org/ | 物理; 科普 | 2026/06/24 00:29:00 | 最新微博：2026 年 6 月 23 日 |
+| [Feed](https://www.changhai.org/feed.xml) | 卢昌海的个人主页 | https://www.changhai.org/ | 物理; 科普 | 2026/06/28 10:45:00 | AI 时代的数学研究 |
 | [Feed](https://ssshooter.com/rss.xml) | UsubeniFantasy | https://ssshooter.com | 前端; 随想; 游戏; 摄影 | 2026/05/30 08:05:33 | 0419 御温泉之旅 |
 | [Feed](https://alxddh.github.io/feed.xml) | Alexander D Huang's Blog | https://alxddh.github.io | 编程; 游戏 | 2019/11/29 06:11:13 | UGF 源码阅读笔记：（1）安装 |
 | [Feed](https://kaix.in/feed/) | KAIX.IN | https://kaix.in | 读书; 咖啡; 随笔 | 2026/06/17 06:23:53 | 2026.06.17 14:21 |
@@ -139,7 +139,7 @@
 | [Feed](https://livid.v2ex.com/feed.xml) | Livid | https://livid.v2ex.com/ | 创业; 社区; 编程 | 2023/01/03 00:00:00 | Installing Jekyll on macOS Ventura |
 | [Feed](https://www.imhanjm.com/atom.xml) | hanjm's Blog | https://www.imhanjm.com | 编程; GO; Golang; 后端 | 2019/12/15 06:36:44 | 深入理解ActiveMQ消息队列协议STMOP AMQP MQTT |
 | [Feed](https://www.kingname.info/atom.xml) | 谢乾坤-青南 | https://www.kingname.info/ | 编程; Python; 爬虫 | x | x |
-| [Feed](https://seo.g2soft.net/atom.xml) | SEO 网站优化及网站推广 | https://seo.g2soft.net/ | 搜索引擎优化; 网站优化; 网站推广; 网站 | 2025/10/24 21:53:03 | 连续三次系统升级，直到 v9.0.5 |
+| [Feed](https://seo.g2soft.net/atom.xml) | SEO 网站优化及网站推广 | https://seo.g2soft.net/ | 搜索引擎优化; 网站优化; 网站推广; 网站 | 2026/06/26 22:18:47 | 安装 Ubuntu 24.04 (LTS)， Webmin， Nginx， MariaDB， PHP8.3-FPM，Perl-Fastcgi 到 DigitalOcean 的 VPS（1） |
 | [Feed](https://igaojin.me/atom.xml) | 高金的博客 | https://igaojin.me/ | 编程; python; 区块链 | 2026/04/19 01:45:04 | friend_tech 套利到底有多卷 |
 | [Feed](https://keelii.com/atom.xml) | 臨池不輟 | https://keelii.com/ | 编程; 前端; 软件开发; 思考 | 2025/10/02 08:30:00 | Node.JS 作者 Ryan Dahl 的故事 |
 | [Feed](https://xilidou.com/atom.xml) | 犀利豆的博客 | https://xilidou.com | 编程 | x | x |
@@ -149,7 +149,7 @@
 | [Feed](https://charlesliuyx.github.io/atom.xml) | 遥行 Gofurther 技术&ML&BC博客 | https://charlesliuyx.github.io/ | 机器学习; 区块链; 算法; 幕布; Dota2 | 2021/07/20 06:37:10 | 博客文章总目录 |
 | [Feed](https://zkqiang.cn/atom.xml) | 张凯强的博客 | https://zkqiang.cn | Python; 爬虫; Java; 后端 | x | x |
 | [Feed](https://blog.xulihang.me/feed/) | xulihang's blog | https://blog.xulihang.me | 编程; 翻译; 随笔 | 2026/06/13 13:22:50 | 高跟鞋 |
-| [Feed](https://hiwannz.com/feed) | 见字如面 | https://hiwannz.com | 产品; 思考; 生活 | 2026/06/04 12:04:33 | 受人之托，然后呢 |
+| [Feed](https://hiwannz.com/feed) | 见字如面 | https://hiwannz.com | 产品; 思考; 生活 | 2026/06/26 10:01:00 | 经验是资本，但也可以是偏见 |
 | [Feed](https://102no.com/atom.xml) | 把酒诗代码 | https://102no.com/ | 编程; 随笔 | 2026/06/05 07:50:37 | 干煸藕丝 |
 | [Feed](https://mebtte.com/rss.xml) | NotJustCode | https://mebtte.com/ | 编程; 前端; 后端 | 2026/03/13 00:00:00 | 使用 Peer Relay 提高 Tailscale 的速度 |
 | [Feed](https://blog.joouis.com/atom.xml) | 江边的旱鸭子 | https://blog.joouis.com | 编程; 前端; 旅行; 阅读; 招聘 | 2025/03/25 08:22:48 | Unpacking the Data Structure of Manus Session |
@@ -161,7 +161,7 @@
 | [Feed](https://hkvision.cn/index.xml) | HaoKunT的博客 | https://hkvision.cn | Python; Golang; GIS; 编程 | 2025/02/08 17:46:34 | 如何用 ollama 快速下载 deepseek 模型 |
 | [Feed](https://deepzz.com/feed) | Deepzz's Blog | https://deepzz.com | 编程; 生活 | 2026/06/18 15:53:40 | 如何写出高质量的 Skill |
 | [Feed](https://lucifer.ren/blog/atom.xml) | lucifer的网络博客 | https://lucifer.ren/blog | 编程; 前端; 算法 | 2026/03/11 02:58:59 | Claude Code 高级指南：驾驭上下文的艺术 |
-| [Feed](https://glumes.com/index.xml) | 音视频开发进阶 | https://glumes.com | 软件开发; 音视频; 图形图像; 随笔思考 | 2026/03/13 15:49:05 | 音视频教程-第三节 |
+| [Feed](https://glumes.com/index.xml) | 音视频开发进阶 | https://glumes.com | 软件开发; 音视频; 图形图像; 随笔思考 | x | x |
 | [Feed](https://www.josherich.me/feed.xml) | Josherich的博客 | https://www.josherich.me/ | 编程; 随笔 | 2026/04/05 00:00:01 | Vol.126 中共一大背后的李汉俊:辛亥之子与工运先驱 |
 | [Feed](https://xzhsh.ch/index.xml) | Zhshch`s Blog | https://xzhsh.ch/ | 日常; 学生; 编程; 奇思妙想 | x | x |
 | [Feed](https://blog.fsky7.com/feed) | FlyingSky's Blog | https://blog.fsky7.com/ | 编程; 随笔 | x | x |
@@ -170,7 +170,7 @@
 | [Feed](https://www.ioiox.com/feed) | 思有云 | https://www.ioiox.com | 技术教程; 云服务; 私有云; 存储NAS; 群晖技巧; Synology | 2025/02/21 03:49:00 | 分享个人的二手 iPhone 验机流程 2025 |
 | [Feed](https://axionl.me/index.xml) | 初等記憶體 | https://axionl.me | Linux 使用; 個人隨筆 | 2022/11/23 00:00:00 | About |
 | [Feed](https://darmau.co/zh/article/rss.xml) | 可可托海没有海 | https://darmau.co/zh | 设计; 前端; 摄影; 生活; 人文 | 2025/11/14 13:53:00 | 用Cloudflare Durable Objects实现延迟部署 |
-| [Feed](https://www.cxyxiaowu.com/feed) | 五分钟学算法 | https://www.cxyxiaowu.com | 算法; 编程 | 2023/04/03 03:26:12 | 恐怖的GPT4！我也入局了 |
+| [Feed](https://www.cxyxiaowu.com/feed) | 五分钟学算法 | https://www.cxyxiaowu.com | 算法; 编程 | x | x |
 | [Feed](https://jyzhu.top/atom.xml) | Tianke Youke | https://jyzhu.top | 编程; 随笔; 诗; 恋爱 | x | x |
 | [Feed](https://zofun.github.io/atom.xml) | 爱写代码的小书童 | https://zofun.github.io/ | 编程; 随笔; 后端 | 2020/09/10 10:34:54 | leetcode经典动态规划解题报告 |
 | None | yanliang's blog | https://yanliang.cool/ | 后端; 算法; 随笔; 架构; 思考 | - | - |
@@ -209,7 +209,7 @@
 | [Feed](http://www.z16388.top/atom.xml) | 崎径 其镜赵安琪的博客 | http://www.z16388.top/ | 编程; 游戏; 音乐 | 2026/05/29 05:52:47 | Unity 升级到 2022 踩坑记录（URP / 黑屏 / HTTP） |
 | [Feed](https://chawyehsu.com/feed/atom.xml) | The Art of Chawye Hsu | https://chawyehsu.com/ | 编程; 游戏; 随笔; 杂谈 | 2023/08/31 17:00:00 | 倒带，关于虚幻勇士的记忆 |
 | [Feed](https://mednoter.com/feed.xml) | 吕小荣的网志 | https://mednoter.com/ | 编程; 随笔; 生活 | 2025/07/05 00:00:00 | 一个读写障碍儿童的英语成长记 |
-| [Feed](https://gaficat.com/atom.xml) | 加菲猫的创客工坊 | https://gaficat.com | 电子DIY; 物联网; 生活; 技术教程; 钢琴; 网络安全 | 2025/11/07 00:19:06 | "天命"几何 |
+| [Feed](https://gaficat.com/atom.xml) | 加菲猫的创客工坊 | https://gaficat.com | 电子DIY; 物联网; 生活; 技术教程; 钢琴; 网络安全 | x | x |
 | [Feed](https://hutusi.com/feed.xml) | 胡涂说 | https://hutusi.com/ | 编程; 随笔; 生活 | 2026/06/13 00:00:00 | Claude Fable 5: 短暂的寓言 |
 | [Feed](http://blog.jiayuanzhang.com/index.xml) | 张佳圆 | https://jiayuanzhang.com/ | 编程; Python; Web | 2022/05/22 19:26:55 | Posts |
 | None | 四公子的剑 | https://www.965.one/ | 编程; 生活; 随笔 | - | - |
@@ -220,7 +220,7 @@
 | None | 桃园 | https://www.taoweng.site/ | 编程; 随想; 前端 | - | - |
 | [Feed](https://oldj.net/feed) | oldj's blog | https://oldj.net | 编程; 写作; 以及涂鸦 | 2026/05/26 02:40:32 | SwitchHosts 5.0 |
 | None | 以梦喂马 | https://www.hwdef.org/ | 编程; 随笔; k8s; golang | - | - |
-| [Feed](https://zdyxry.github.io/atom.xml) | Yiran's Blog | https://zdyxry.github.io/ | 编程; Linux | 2026/06/21 00:00:00 | Weekly Issue-《干吧！辣茶！》 |
+| [Feed](https://zdyxry.github.io/atom.xml) | Yiran's Blog | https://zdyxry.github.io/ | 编程; Linux | 2026/06/28 00:00:00 | Weekly Issue-人分千里外，兴在一杯中 |
 | None | 沈维燕的个人博客 | https://shen.bioitee.com | 生物信息学; IT; 编程 | - | - |
 | [Feed](https://blog.guowenfh.com/atom.xml) | 三省吾身丶丶 | https://blog.guowenfh.com/ | 编程; 前端; 随笔 | 2021/03/06 03:37:13 | 中文播客推荐 |
 | [Feed](https://huiweishijie.com/feed.xml) | 回未视戒 | https://huiweishijie.com | 设计; 读书; 日记 | x | x |
@@ -252,28 +252,28 @@
 | [Feed](https://yuechuanx.top/atom.xml) | Yuechuan Blog | https://yuechuanx.top/ | 编程; DevOps; Automation | x | x |
 | None | 大数据最佳实践 | https://bigdata.bihell.com/ | 编程; 全栈; 生活 | - | - |
 | None | Jansora | https://www.jansora.com/ | 编程; 全栈 | - | - |
-| [Feed](http://z.arlmy.me/atom.xml) | 素生 | https://z.arlmy.me/ | 随笔; 写作; 旅行; 日常; 读书 | 2026/06/21 12:12:08 | 入蜀记 day160 to HOLD not to sell |
-| [Feed](https://www.wikimoe.com/rss.php) | 维基萌 | https://www.wikimoe.com/ | 动画; 漫画; 游戏; 日常; 前端 | 2026/06/24 14:02:36 | 没想到《告别回忆 -无垢少女- 致最爱的你》有致命白屏BUG |
+| [Feed](http://z.arlmy.me/atom.xml) | 素生 | https://z.arlmy.me/ | 随笔; 写作; 旅行; 日常; 读书 | 2026/06/28 03:56:30 | 普通 |
+| [Feed](https://www.wikimoe.com/rss.php) | 维基萌 | https://www.wikimoe.com/ | 动画; 漫画; 游戏; 日常; 前端 | 2026/06/28 06:50:30 | 听说最近很流行在薯片包装上画图呢 |
 | [Feed](https://blog.strongwong.top/atom.xml) | strongwong's Blog | https://blog.strongwong.top/ | 编程; 嵌入式; ASIC; 随笔 | x | x |
 | [Feed](https://paugram.com/feed) | 保罗的小宇宙 | https://paugram.com | 生活; 随笔; 前端; 动漫; 数码 | 2026/06/18 08:46:00 | 奇趣影棚项目 Vibe Coding 第一天问题记录 |
 | [Feed](https://typeblog.net/rss/) | typeblog | https://typeblog.net/ | Linux; 隐私; 随笔 | x | x |
 | [Feed](https://jhuo.ca/index.xml) | HuoJu's BLOG | https://jhuo.ca/ | 隐私; 随笔 | 2021/04/25 22:03:05 | Posts |
 | [Feed](http://blog.mikeoperfect.com/atom.xml) | MikeoPerfect's Diary | https://blog.mikeoperfect.com/ | 生活; 日志 | 2026/05/23 03:48:27 | 高三第四五次聚会 |
 | [Feed](https://www.kai666666.top/atom.xml) | 橙光笔记 | https://www.kai666666.top/ | 编程; 前端; 笔记; 运动 | x | x |
-| [Feed](http://lichuanyang.top/atom.xml) | Mobility | https://lichuanyang.top/ | 编程; 后端; java | 2026/06/24 11:35:13 | 免费AI视频生成器：我如何用零成本做出带旁白字幕的多场景AI视频 |
+| [Feed](http://lichuanyang.top/atom.xml) | Mobility | https://lichuanyang.top/ | 编程; 后端; java | 2026/06/27 03:57:07 | SSP、DSP、RTB、ADX都是什么？讲讲互联网广告的概念与发展 |
 | [Feed](https://notlsd.github.io/atom.xml) | not LSD | https://notlsd.github.io | 编程; 游戏设计; 旅行 | 2020/08/31 16:30:53 | MacOS Solution - External Drive Cannot Mount After Plug Off without Eject |
 | None | 杯酒故事 | https://beijiu.ink | 文学; 小说; 诗歌 | - | - |
-| [Feed](https://blog.imalan.cn/feed.xml) | 失眠海峡 | https://blog.imalan.cn | 编程; 日常; 二次元; 读书 | 2026/06/14 14:20:37 | AI 博客问题挑战 |
+| [Feed](https://blog.imalan.cn/feed.xml) | 失眠海峡 | https://blog.imalan.cn | 编程; 日常; 二次元; 读书 | 2026/06/27 03:36:39 | 熊猫小A: 镰仓，江之岛和河口湖附近。最近紫阳花开得正盛呢。 |
 | [Feed](https://www.duyaoss.com/feed/) | DuyaoSS | https://www.duyaoss.com/ | SS; SSR | x | x |
 | [Feed](https://blog.k8s.li/atom.xml) | 木子 | https://blog.k8s.li/ | Linux; 科学上网; 读书笔记; 运维; 隐私; android | 2024/06/13 16:00:00 | 端午节游玩：徒步、骑行、跑山 |
 | [Feed](https://wuxinhua.com/atom.xml) | wuxinhua's Blog | https://wuxinhua.com/ | 生活; 编程; 随想 | 2024/11/22 17:00:00 | 写作者与不写作者：AI 时代的思考分水岭 |
 | None | Dasyatis | https://www.bobby285271.top/ | 编程; Linux | - | - |
 | None | 薛定喵君的博客 | http://blog.xuedingmiao.com/ | 编程; 前端; 产品; 笔记 | - | - |
-| [Feed](https://innei.ren/feed) | 静かな森 | https://innei.ren/ | 生活; 随笔; 前端; 动漫 | 2026/06/16 19:16:41 | 把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正 |
+| [Feed](https://innei.ren/feed) | 静かな森 | https://innei.ren/ | 生活; 随笔; 前端; 动漫 | 2026/06/28 15:51:02 | 在 AI 浪潮下，如何留在牌桌上 |
 | [Feed](https://tumutanzi.com/feed) | 土木坛子 | https://tumutanzi.com/ | 科研学习; 社会人文; 信息技术; 国外见闻 | 2026/05/23 16:00:42 | 《币安人生》读后书摘 |
-| [Feed](https://www.seis-jun.xyz/atom.xml) | seisamuse | https://seis-jun.xyz | 科研; 学习; 生活 | 2026/06/24 01:02:17 | 用 Cloudflare Tunnel 在家连回办公室 Fedora |
+| [Feed](https://www.seis-jun.xyz/atom.xml) | seisamuse | https://seis-jun.xyz | 科研; 学习; 生活 | 2026/06/25 16:00:00 | 视频笔记：提前退休不是躺平，而是提高选择权 |
 | [Feed](https://www.javatang.com/feed) | 爪哇堂 | https://www.javatang.com/ | 编程; 笔记 | x | x |
-| [Feed](https://www.lujun9972.win/rss.xml) | 暗无天日 | https://www.lujun9972.win | Emacs; Linux | 2026/06/24 00:00:00 | TIL: 用 Denote 在 Emacs 里写邮件 |
+| [Feed](https://www.lujun9972.win/rss.xml) | 暗无天日 | https://www.lujun9972.win | Emacs; Linux | 2026/06/29 00:00:00 | TIL：AI Agent 的四个控制层模式 |
 | None | 前端路上 | https://refined-x.com/ | 前端; 编程; 程序员 | - | - |
 | None | Ryan_naiquan | https://www.lpime.cn/ | 编程; C++; 后台 | - | - |
 | [Feed](https://jw1.dev/atom.xml) | Jacky's Blog | https://jw1.dev | 前端; 生活; 技术; 音乐 | 2026/04/18 00:00:00 | Problems with Vibe Coding pt.2 |
@@ -332,7 +332,7 @@
 | [Feed](https://blog.vvzero.com/atom.xml) | 三帛的世界 | https://blog.vvzero.com | 软硬件全栈开发; 生活 | 2026/05/20 06:58:31 | 使用树莓派 4 和 Moonlight 串流游戏的实践 |
 | [Feed](https://blog.hclonely.com/atom.xml) | HCLonely | https://blog.hclonely.com/ | 前端; 二次元; 随笔 | 2026/06/18 07:50:20 | 记一次hexo-bilibili-bangumi分时函数渲染优化 |
 | [Feed](https://geofftools.cn/blog/atom.xml) | 樵夫的小站 | https://geofftools.cn/blog/ | 编程; Swift; Python | 2020/12/14 14:25:38 | 只是组件 使用手册 |
-| [Feed](https://www.sund.site/index.xml) | 电波障害 | https://sund.site/ | 数字生活; 文化; 架构 | 2026/06/17 16:00:01 | 【译文】循环工程的艺术 |
+| [Feed](https://www.sund.site/index.xml) | 电波障害 | https://sund.site/ | 数字生活; 文化; 架构 | 2026/06/25 09:00:00 | 【译文】我们现在是工厂工程师，不是产品工程师 |
 | [Feed](https://tomotoes.com/blog/atom.xml) | 一个坏掉的番茄 | https://tomotoes.com/ | 编程; 生活; 思考 | x | x |
 | [Feed](https://zhangdinghao.cn/atom.xml) | DHTalk's Blog | https://zhangdinghao.cn/ | 编程; 阅读; 生活 | 2021/12/01 10:01:06 | 2021年11月投资月报：熊市传闻 |
 | [Feed](http://weisenhui.top/atom.xml) | shwei's blog | http://weisenhui.top/ | 编程; 算法; 思考 | x | x |
@@ -350,7 +350,7 @@
 | [Feed](https://muyun.work/feed/) | Muyun的杂谈 | https://muyun.work | 科技; 生活; 算法; 随笔 | 2026/05/18 17:28:00 | 27 岁生日快乐｜银河里才是你灵魂的徜徉地 |
 | [Feed](https://wineso.me/index.xml) | 琚致远 | https://wineso.me/blog | 编程; 自由职业; 生活; 思考 | x | x |
 | [Feed](https://www.aceact.com/feed/) | 老张说思路 | https://www.aceact.com | 项目管理 | x | x |
-| [Feed](https://wiki.eryajf.net/rss.xml) | 二丫讲梵 | https://wiki.eryajf.net | 运维; 思索; 编程 | 2026/06/18 22:56:38 | 学习周刊-总第268期-2026年第25周 |
+| [Feed](https://wiki.eryajf.net/rss.xml) | 二丫讲梵 | https://wiki.eryajf.net | 运维; 思索; 编程 | 2026/06/25 21:55:37 | 学习周刊-总第269期-2026年第26周 |
 | [Feed](https://wulu.zone/feed/post.xml) | Wulu's Blog | https://wulu.zone/ | 笔记; 经验分享; 学习; 教育 | 2026/05/05 07:33:26 | 开放课程推荐 「面向所有人的 AI 提示词技巧」 |
 | [Feed](https://ai.renyuzhuo.cn/atom.xml) | RAIS | https://ai.renyuzhuo.cn | 编程; 人工智能; 深度学习 | 2021/05/22 15:44:19 | LSTM - 长短期记忆网络 |
 | None | Tsanfer's Blog | https://tsanfer.com/ | 编程; 技术 | - | - |
@@ -397,7 +397,7 @@
 | [Feed](https://tcxx.info/feed) | 甜欣屋 | https://www.tcxx.info/ | 美国生活; 技术; 人工智能 | x | x |
 | [Feed](https://luyuhuang.github.io/feed.xml) | Luyu Huang's Tech Blog | https://luyuhuang.github.io | 编程 | 2026/01/28 15:07:36 | 程序员是什么阶级 |
 | [Feed](https://feizhaojun.com/?feed=rss2) | 费照君个人网站 | https://feizhaojun.com | 编程; 科技; 分享 | 2026/03/10 14:54:20 | 树犹如此：连树都这样…究竟是哪样？ |
-| [Feed](https://blog.xiaket.org/feed.xml) | 年华转瞬 | https://blog.xiaket.org | 编程; 读书 | 2026/05/23 00:40:00 | Pensieve: 2605 |
+| [Feed](https://blog.xiaket.org/feed.xml) | 年华转瞬 | https://blog.xiaket.org | 编程; 读书 | 2026/06/28 06:38:00 | Pensieve: 2606 |
 | [Feed](https://blog.ponder.work/atom.xml) | 逸思杂陈 | https://blog.ponder.work | 编程; 随笔 | 2026/06/20 01:40:36 | 家用网络 vlan 单线复用 |
 | [Feed](https://blog.wangxuan.name/feed/) | 王玄的博客 | https://blog.wangxuan.name | 随笔; 自由互联网; 数字生活; 分享 | 2024/12/29 04:55:18 | 将中文网页发送至 Kindle 的各种方法和坑 |
 | [Feed](https://blog.gotocoding.com/feed/) | 重归混沌的BLOG | https://blog.gotocoding.com | 编程 | 2026/05/03 07:01:08 | 给silly实现了一个ernro模块 |
@@ -425,27 +425,27 @@
 | [Feed](https://www.frank.hk/rss.xml) | 人生這部戲 | https://www.frank.hk/ | 生活; 思考; 閱讀; 旅行; 技術 | x | x |
 | [Feed](https://h.cjh0613.com/zh/index.xml) | 地球人的空间 | https://cjh0613.com | 技术; 生活; 思考; 分享; 编程 | 2026/04/19 00:52:15 | Charged App - 使用说明和隐私权政策 |
 | [Feed](https://blog.dugulingping.com/feed) | 独孤伶俜 | https://blog.dugulingping.com/ | 编程; 生活; 随笔 | x | x |
-| [Feed](https://maxoxo.me/rss/) | maxOS | https://maxoxo.me | 设计; 阅读; 随笔; 歌单 | 2026/01/04 15:17:07 | Things I Know in 2025 |
+| [Feed](https://maxoxo.me/rss/) | maxOS | https://maxoxo.me | 设计; 阅读; 随笔; 歌单 | 2026/06/28 14:18:24 | Thinking in Bets |
 | [Feed](https://yuukoamamiya.github.io/index.xml) | Yuko's Blog | https://yuukoamamiya.github.io/ | 二次元; 人文; 社科; 读书; 游戏 | 2026/04/12 13:55:00 | AI播客牛逼 |
-| [Feed](https://jubeny.com/feed.xml) | 渚碧 | https://jubeny.com/ | 读书; 生活; 随想 | 2026/05/04 13:03:47 | 凭感觉炒股 |
+| [Feed](https://jubeny.com/feed.xml) | 渚碧 | https://jubeny.com/ | 读书; 生活; 随想 | 2026/06/28 08:26:11 | 静待植物生长 |
 | [Feed](https://lhymwm.github.io//atom.xml) | 以梦为马 | https://lhymwm.github.io | 学习; 生活; 断想 | 2022/07/10 17:00:00 | 临行断想 |
 | [Feed](https://jiayiliu.me/index.xml) | Jiayi Liu | https://jiayiliu.me/ | 生活; 随笔; 生物信息学; 生物医学; 折腾 | 2023/08/20 04:00:00 | Differential variability analysis of single-cell gene expression data |
 | [Feed](https://blog.henix.info/rss2.0.xml) | 遥远的街市 | https://blog.henix.info/ | 编程; 随笔 | 2024/04/27 16:00:00 | 简单实现 C++ 字符串格式化 |
 | [Feed](https://imzm.im/feed) | 陈仓颉 | https://imzm.im | 生活; 随笔; 摄影 | x | x |
 | [Feed](https://musenxi.com/feed) | 夜庭記 | https://musenxi.com/ | 生活; 随笔; 技术 | 2026/04/14 13:51:00 | 利用Cloudflare Workers将Google Drive转换成S3兼容存储 |
 | [Feed](https://ngzhio.github.io/feed.xml) | Ngzhio's Blog | https://ngzhio.github.io/ | 编程; 生活; 文学; 数学; 物理; 笔记 | x | x |
-| [Feed](https://wsdjeg.net/feed.xml) | Eric's Blog | https://wsdjeg.net/ | 编程; 生活; 笔记 | 2026/06/16 00:00:00 | AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门 |
+| [Feed](https://wsdjeg.net/feed.xml) | Eric's Blog | https://wsdjeg.net/ | 编程; 生活; 笔记 | 2026/06/27 00:00:00 | chat.nvim 定时任务的设计与实现 |
 | [Feed](https://painso.com/posts/index.xml) | ephz3nt | https://painso.com | 随想; 运维; 学习 | x | x |
 | [Feed](https://xiaozhu.dev/index.xml) | 小猪 | https://xiaozhu.dev | 技术; 编程; 前端; 学习 | x | x |
 | [Feed](https://blog.251.sh/feed/) | 251 | https://blog.251.sh/ | 编程; 生活; 技术; 教程; 学习 | 2026/05/13 13:43:50 | 通过 Ansible 给各个 Server 做自动化升级 |
 | [Feed](https://www.luxianpo.com/rss.xml) | 卢贤泼的博客 | https://www.luxianpo.com | 工作; 生活; 技术; 笔记 | 2021/11/28 00:00:00 | 漫长的告别 04: 答案在别处 |
-| [Feed](https://xugaoxiang.com/feed) | 迷途小书童 | https://xugaoxiang.com | 工作; 编程; 技术 | 2026/06/16 13:37:08 | 装完Hermes之后，我被这5个东西救了 |
+| [Feed](https://xugaoxiang.com/feed) | 迷途小书童 | https://xugaoxiang.com | 工作; 编程; 技术 | 2026/06/28 13:33:13 | X上如何下载视频？ |
 | [Feed](https://xuyisheng.top/rss/) | 徐宜生 | https://xuyisheng.top | 工作; 编程; 技术 | x | x |
 | [Feed](https://scvoet.me/feed) | Scvoet | https://scvoet.me | 编程; 学习; 生活 | x | x |
 | [Feed](https://diff.im/blog/?feed=rss2) | Diff客旅日记 | https://diff.im/blog/ | 基督信仰，设计，生活，教育 | x | x |
 | [Feed](https://cdjax.com/?feed=rss2) | jax - 走在路上 | https://cdjax.com/ | 产品; 数码; 随笔 | 2026/06/09 16:07:00 | 微信AI生态要来了 |
 | [Feed](https://zxs.io/feed) | XINDOO的博客 | https://zxs.io | 算法; 编程; 人生 | 2026/06/20 11:53:01 | 从豆包收费看 AI 商业化的必然逻辑 |
-| [Feed](https://masuit.com/rss) | 懒得勤快的博客 | https://masuit.com | 绿色软件; .net; 资源分享 | 2026/06/25 01:28:30 | 狗狗加速——Hysteria2 及 AnyTLS 等前沿协议机场，免费试用 |
+| [Feed](https://masuit.com/rss) | 懒得勤快的博客 | https://masuit.com | 绿色软件; .net; 资源分享 | 2026/06/27 22:56:04 | 免费开源的解压缩软件——7-Zip-zstd 26.2 64位美化版 |
 | [Feed](https://geektutu.com/feed.xml) | 极客兔兔 | https://geektutu.com | 分享有趣的技术实践 | 2021/01/14 23:00:00 | Go sync.Cond |
 | [Feed](https://www.geekzl.com/feed) | 极客中心 | https://www.geekzl.com | 编程; 技术; SEO; 教程; dotnet; python | x | x |
 | [Feed](https://www.chenshaowen.com/atom.xml) | 陈少文的博客 | https://www.chenshaowen.com/blog/ | 编程; 笔记 | 2026/06/24 00:00:00 | LiteLLM - 提供统一的模型接口格式 |
@@ -465,7 +465,7 @@
 | [Feed](https://dingzeyu.li/blog/feed.xml) | DLog - 李丁的博客 | https://dingzeyu.li/blog/ | 研究; 技术; 分享; 商业模式; 思考 | x | x |
 | [Feed](https://blog.jimmylv.info/pages/feed.xml) | JimmyLv@吕立青的博客 | https://blog.jimmylv.info | 前端; 思考; 编程; 演讲; 知识管理; 效率 | 2024/02/08 00:00:00 | Gingko Writer：在 AI 随便生成 20 万字的时代，"生而为人"该如何写作？ |
 | None | 牧云云的博客 | http://muyunyun.cn/blog/ | 编程; 前端; 算法; 读书; 分享 | - | - |
-| [Feed](https://qiangwaikan.com/feed/) | 墙外看的博客 | https://qiangwaikan.com/ | 教程; 安全; 技术 | 2026/06/18 12:59:57 | 2026年最佳日本VPN推荐(翻墙和解除地区限制) |
+| [Feed](https://qiangwaikan.com/feed/) | 墙外看的博客 | https://qiangwaikan.com/ | 教程; 安全; 技术 | 2026/06/29 12:01:40 | 2026年最好用的中国VPN推荐?翻墙VPN软件测评 |
 | [Feed](https://www.kirito41dd.cn/index.xml) | kirito的博客 | https://www.kirito41dd.cn | 编程; 比特币; 技术 | x | x |
 | [Feed](https://herrkaefer.com/feed/) | herrkaefer | https://herrkaefer.com/ | 技术; 创造; 思考 | x | x |
 | [Feed](https://awsl.blog/feed) | Ťhinking Null | https://awsl.blog/ | 编程; 技术; 随笔 | 2023/01/19 16:57:00 | 神秘的启动参数 ibt=off |
@@ -486,7 +486,7 @@
 | [Feed](https://thiscute.world/index.xml) | This cute world | https://thiscute.world/ | 云原生; Kubernetes; 运维; Linux | 2026/05/30 07:22:30 | 我看见的世界 |
 | None | 指尖上的梦想 | https://varyblog.cn/ | 学习; 旅行; 收藏 | - | - |
 | [Feed](https://shenzilong.cn/blog/feed) | 崮生 • 一些随笔 🎨 | https://shenzilong.cn/ | 随笔; 编程; 分享; 前端 | x | x |
-| [Feed](https://owent.net/index.xml) | I'm OWenT | https://owent.net/ | 编程; 后端; 技术; 思考 | 2026/04/30 18:00:45 | 国产大模型编码能力实测(GLM 5.1、Kimi K2.6、Mimo v2.5 Pro 和 DeepSeek V4 Pro) |
+| [Feed](https://owent.net/index.xml) | I'm OWenT | https://owent.net/ | 编程; 后端; 技术; 思考 | 2026/06/28 01:25:45 | 大语言模型的基石：Transformer 入坑笔记（三） - 注意力机制和 Transformer |
 | [Feed](https://www.androidperformance.com/atom.xml) | Android Performance | https://www.androidperformance.com/ | 编程; Android; 分享 | 2026/06/05 00:02:35 | SmartPerfetto 2026.05.17-06.04 更新：Smart 模式、证据规则和四条 Runtime |
 | [Feed](https://www.nansey.me/feeds/posts/default) | Nansey的博客 | https://www.nansey.me/ | 翻译; 读书; 随笔 | 2025/09/09 09:25:21 | AI 时代，我们为什么还要写博客？ |
 | [Feed](https://fanyi.news/feed.xml) | 翻译动态 | https://fanyi.news/ | 翻译; 本地化; 行业动态 | x | x |
@@ -504,7 +504,7 @@
 | [Feed](https://evilcos.me/?feed=rss2) | EVILCOS | https://evilcos.me/ | 安全 | 2017/10/04 07:17:38 | WordPress防火墙 |
 | [Feed](https://blog.lyunvy.top/atom.xml) | Lyunvy's Blog | https://blog.lyunvy.top/ | 生活; 学习 | 2025/11/21 15:46:18 | Slice-4 |
 | [Feed](https://blog.priewienv.me/index.xml) | PRIEWIENV's blog | https://blog.priewienv.me | 密码学; 理论计算机科学; 数学; 区块链 | 2019/05/26 20:32:57 | [研究] 可验证延迟函数（VDF）（一）一文搞懂 VDF |
-| [Feed](https://www.yystv.cn/rss/feed) | 游戏研究社 | https://www.yystv.cn/ | 游戏; 杂谈 | 2026/06/24 16:00:00 | 消息称腾讯拟退出对多家日本游戏工作室的投资，《牧场物语》开发商在列 |
+| [Feed](https://www.yystv.cn/rss/feed) | 游戏研究社 | https://www.yystv.cn/ | 游戏; 杂谈 | 2026/06/26 16:00:00 | 大力宣传MMO，《诡秘之主》游戏怎么敢的？ |
 | [Feed](https://ksmeow.moe/feed/) | KSkun's Blog | https://ksmeow.moe/ | 算法; 开发; 互联网; 生活 | 2023/04/15 16:35:23 | Unity 构建与客户端安全 |
 | [Feed](http://kevinnan.org.cn/feed) | Lucas's Blog | http://kevinnan.org.cn/ | 编程; 算法; 音视频开发; 服务器开发 | x | x |
 | [Feed](https://qq52o.me/feed) | 沈唁志 | https://qq52o.me | 编程; 后端; 技术; 随笔 | 2026/04/21 04:52:15 | 使用 Trusted Publishing 提升 npm 包发布安全性 |
@@ -532,10 +532,10 @@
 | [Feed](https://nyan.im/feed) | Frank's Weblog | https://nyan.im/ | 编程; 技术; 生活 | 2026/02/12 23:57:00 | Understanding Systemd Timer: Troubleshooting `D-Bus connection terminated` Error |
 | [Feed](https://robotkang.cc/feed) | Robotkang | https://robotkang.cc/ | 科技; 生活; 音乐; 人生 | x | x |
 | [Feed](https://afoo.me/feeds.xml) | 福强说 一个架构士的思考与沉淀 | https://afoo.me/ | 架构; 创业; 思考 | 2026/05/25 16:00:00 | How I manage Codex context files |
-| [Feed](https://zhurongshuo.com/index.xml) | 祝融说 | https://zhurongshuo.com/ | 法不净空，觉无性也。 | 2026/05/27 09:07:34 | 共识并不平均，但是基本上均衡。 |
+| [Feed](https://zhurongshuo.com/index.xml) | 祝融说 | https://zhurongshuo.com/ | 法不净空，觉无性也。 | 2026/06/27 12:50:34 | 肩吾 |
 | [Feed](https://wangjiezhe.com/atom.xml) | 如鱼饮水 | https://wangjiezhe.com/ | 数学; 随笔 | x | x |
 | [Feed](https://wakzz.cn/atom.xml) | 祈雨的博客 | https://wakzz.cn/ | 编程; 后端; 架构 | 2025/12/04 10:51:27 | 我的世界PC与安卓联机 |
-| [Feed](https://www.liurongxing.com/feed) | 刘荣星的博客 | https://www.liurongxing.com/ | Linux; BSD; 运维 | 2023/12/08 03:46:22 | CentOS7 python2 安装 elasticsearch 模块 |
+| [Feed](https://www.liurongxing.com/feed) | 刘荣星的博客 | https://www.liurongxing.com/ | Linux; BSD; 运维 | x | x |
 | [Feed](https://phuker.github.io/feeds/all.atom.xml) | Phuker's Blog | https://phuker.github.io/ | 编程; 技术; 安全 | 2026/05/17 07:15:00 | 洒家也爱当代艺术 |
 | [Feed](https://blog.chenjt.com/feed.xml) | 珒陶 | https://blog.chenjt.com/ | 技术; 生活; 随笔 | 2024/10/12 06:03:42 | LC电路分析入门 |
 | [Feed](https://kefan.me/rss.xml) | 董珂璠☕ | https://kefan.me/blog | 编程; 随笔; 学生; 读书笔记 | 2024/06/28 11:52:53 | Two Classes |
@@ -582,7 +582,7 @@
 | [Feed](https://www.eluyee.com/feed/) | Eluyee个人博客 | https://www.eluyee.com/ | 跨境支付; 虚拟卡; 亚马逊 | 2023/12/08 08:07:13 | 自建邮件服务器，基于iRedMail搭建域名邮局不进垃圾箱 |
 | [Feed](https://vim0.com/index.xml) | 咸糖的博客 | https://vim0.com/ | 编程; 理财; 想法 | 2025/12/28 07:31:25 | 2025 年终总结：降噪、重构与长期主义 |
 | [Feed](https://sanzo.top/atom.xml) | Sanzo's Blog | https://sanzo.top/ | 编程; 技术; 生活 | x | x |
-| [Feed](https://hellodk.cn/feed/) | Allen Hua 的网络博客 | https://hellodk.cn | 编程; Linux; 后端; 网络; 随笔; 生活 | 2026/06/24 02:21:42 | 机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录 |
+| [Feed](https://hellodk.cn/feed/) | Allen Hua 的网络博客 | https://hellodk.cn | 编程; Linux; 后端; 网络; 随笔; 生活 | 2026/06/24 02:21:00 | 机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录 |
 | [Feed](https://www.7gugu.com/feed/) | 7gugu's Blog | https://www.7gugu.com | 编程; 前端; 随笔; 生活 | x | x |
 | None | XTAO's Tech Blog | https://xiaotaoguo.com | 编程; 技术; 自动驾驶; 机器人 | - | - |
 | [Feed](https://www.bodunhu.com/blog/index.xml) | std::bodun::blog | https://www.bodunhu.com/blog/ | Linux; OS; 网络; 理论; Programming; Others | 2025/04/20 00:00:00 | Four Years into PhD |
@@ -592,12 +592,12 @@
 | [Feed](https://zkpeace.com/blog-cn/atom.xml) | 途中的树 | https://zkpeace.com | 编程; 生活; 机器 | x | x |
 | [Feed](http://fetchrss.com/rss/60e1767cf877a4023a2caee260e176387504cf483957bf43.xml) | LitStronger's notes | https://liaoyq.club/ | 前端笔记，生活 | x | x |
 | [Feed](https://weepingdogel.github.io/index.xml) | WeepingDogel's Blog | https://weepingdogel.github.io/ | Linux; 编程; 前端; 安全; 生活 | 2024/03/05 08:14:35 | A Simple Client Server Project Made by Python and Vue3 |
-| [Feed](https://blog.lss233.com/rss/) | Lss233's.Blog(); | https://blog.lss233.com/ | 编程; 技术; 笔记; 生活 | 2023/01/31 13:55:30 | 10 分钟快速入门垃圾回收机制 |
+| [Feed](https://blog.lss233.com/rss/) | Lss233's.Blog(); | https://blog.lss233.com/ | 编程; 技术; 笔记; 生活 | x | x |
 | [Feed](https://ioerr.github.io/index.xml) | 读写错误 | https://ioerr.github.io/ | 杂文; 读书; 想法; 生活 | 2026/06/16 00:00:00 | 你是来看踢球的还是来看肤色的？ |
 | [Feed](https://www.kxit.net/blog/feed/) | Zhendong的博客 | https://www.kxit.net/ | 日常; 笔记; 生活; 测评; 编程; 资讯 | 2024/03/26 16:05:52 | 本站已迁移至阿里云并接入IPC备案 |
 | [Feed](https://f2h2h1.github.io/rss.xml) | f2h2h1's blog | https://f2h2h1.github.io/ | 笔记; 编程; 生活 | 2026/06/01 10:34:59 | 使用yii3实现一个微框架 |
 | [Feed](https://fidel.js.org/rss.xml) | Fidel's Lab | https://fidel.js.org/ | 编程; OI; 日常 | 2021/09/12 16:00:00 | 从 C++98 到 C++14 —— OIer 升级指南 |
-| [Feed](https://java4u.cn/feed) | Java for You | http://java4u.cn/ | 编程; 后端; 技术; Java | x | x |
+| [Feed](https://java4u.cn/feed) | Java for You | http://java4u.cn/ | 编程; 后端; 技术; Java | 2024/03/17 13:20:41 | 字节面试高频百题(二) |
 | [Feed](https://easonyang.com/atom.xml) | Eason Yang's Blog | https://easonyang.com/ | 编程; 架构; 技术; 产品; 生活 | 2023/01/01 16:47:14 | 2022年终总结 |
 | [Feed](https://ifmet.cn/atom.xml) | 偕臧的小站 | https://ifmet.cn/ | 编程; 生活; 思考 | x | x |
 | [Feed](https://besscroft.com/rss.xml) | 旅行者的随想 | https://besscroft.com/ | 编程; 生活; 随想 | x | x |
@@ -609,7 +609,7 @@
 | [Feed](https://blog.halberd.cn/rss.xml) | Simple code Simple life | https://blog.halberd.cn/ | 前端; 编程; 计算机; 生活记录 | x | x |
 | [Feed](http://wu.run/atom.xml) | 吴润写字的地方 | http://wu.run | 编程; 生活; 思考 | x | x |
 | [Feed](https://blog.ruixiaolu.com/feed/) | Rainshaw's Blog | https://blog.ruixiaolu.com/ | 编程; 随想; 安全 | x | x |
-| [Feed](https://aemoncao.github.io/rss2.xml) | Aemon's Blog | https://aemoncao.github.io/ | 编程; 折腾; 生活 | 2025/05/30 12:55:35 | 榨干这台NAS第006话-关于备份 |
+| [Feed](https://aemoncao.github.io/rss2.xml) | Aemon's Blog | https://aemoncao.github.io/ | 编程; 折腾; 生活 | 2026/06/27 18:30:00 | 给 Hexo 博客换上 Giscus 评论系统 |
 | [Feed](https://siwei.io/index.xml) | 思为说 | https://siwei.io | 图数据库; 编程; 云计算; 大数据 | 2025/02/28 13:33:13 | Fusion GraphRAG Introduced |
 | [Feed](https://marwin.cn/rss2.xml) | Marwin's Blog | https://marwin.cn/ | 编程; 数码 | x | x |
 | [Feed](https://www.mmbkz.cn/feed) | 火喵日记本 | https://www.mmbkz.cn/ | 生活; 日常; 编程; 笔记 | 2026/06/07 11:43:30 | 美国大学女生快乐的校园生活，剧情真不错啊 |
@@ -623,7 +623,7 @@
 | [Feed](https://woodloch.blog/feed/) | 木澤的研發腦 | https://woodloch.blog/ | 編程; 開源; 隨筆 | 2026/01/29 14:44:39 | [AGV] OpenTCS 模組架構解析 \| OpenTCS Modular Architecture Overview |
 | [Feed](https://imzl.com/feed/) | 周良博客 | https://imzl.com/ | 产品; 运营; 商业; 编程; WordPress; 随笔 | x | x |
 | [Feed](https://dgideas.net/feed/) | DGideas' Blog | https://dgideas.net/ | 编程; 技术; 生活 | 2026/06/12 19:17:45 | 那就再开一次落日飞车——我的二零二五年 |
-| [Feed](https://www.miaoer.net/feed) | 喵二の小博客 | https://www.miaoer.net/ | 技术; 生活; 学习 | 2026/03/16 10:49:59 | “糖” |
+| [Feed](https://www.miaoer.net/feed) | 喵二の小博客 | https://www.miaoer.net/ | 技术; 生活; 学习 | 2026/06/25 09:55:00 | 考试前 24 下半年 |
 | [Feed](https://nojsja.github.io/blogs/atom.xml) | nojsja'个人博客 | https://nojsja.github.io/blogs/ | 编程; 技术; 前端; Linux | x | x |
 | [Feed](https://itgoyo.github.io/atom.xml) | itgoyo's blog | https://itgoyo.github.io/ | 编程; UP; 学习; Vim; Mac; Linux | x | x |
 | [Feed](https://Jev0n.com/feed/) | 思泉-Jev0n | https://jev0n.com/ | 安全; 编程; 生活 | x | x |
@@ -634,8 +634,8 @@
 | [Feed](https://www.imaegoo.com/atom.xml) | iMaeGoo's Blog | https://www.imaegoo.com | 编程; 前端; Serverless | 2026/05/23 01:30:00 | 浏览器直接访问正常，过了负载均衡就崩了？只因响应头里多了个空格 |
 | [Feed](https://eallion.com/atom.xml) | 大大的小蜗牛 | https://eallion.com/ | 生活; 电商 | 2026/04/07 13:17:38 | 春假清明自驾游 |
 | [Feed](https://baiyun.me/feed) | BAI YUN | https://baiyun.me/ | 技术; 分享 | 2026/05/28 16:25:26 | 国内注册币安账号并通过 KYC 教程 |
-| [Feed](https://blog.baoshuo.ren/atom.xml) | 宝硕博客 | https://blog.baoshuo.ren | 技术; 编程; 生活; 前端; 后端; 分享; 笔记 | 2026/03/30 06:55:00 | LLM 工程化在福 uu 中的落地实践 —— 假期调课的智能解析 |
-| [Feed](https://springwood.me/feed/) | 沉舟侧畔 Blog | https://springwood.me | 技术; 日本生活; iOS; macOS; 分享 | 2026/06/14 15:00:00 | 博客重建 |
+| [Feed](https://blog.baoshuo.ren/atom.xml) | 宝硕博客 | https://blog.baoshuo.ren | 技术; 编程; 生活; 前端; 后端; 分享; 笔记 | x | x |
+| [Feed](https://springwood.me/feed/) | 沉舟侧畔 Blog | https://springwood.me | 技术; 日本生活; iOS; macOS; 分享 | 2026/06/24 15:00:00 | 日本小学数学（一年级） |
 | [Feed](http://yibie.github.io/index.xml) | 学无止境@一点一滴 | http://gtdstudy.com/ | 阅读; 思考 | 2026/03/15 15:00:00 | 在等待 AI 的时候，干些什么好？ |
 | [Feed](https://ednovas.xyz/atom.xml) | EdNovas的小站 | https://ednovas.xyz | 编程; 算法; Linux; 科学上网 | 2026/06/12 19:26:13 | VPS Manager Pro (Web SSH Terminal) |
 | [Feed](https://wentao.org/index.xml) | wentao's blog | https://wentao.org | 编程; 阅读; 思考 | 2023/07/11 01:58:00 | 解决armbian更新报不能验证个别公钥 |
@@ -653,7 +653,7 @@
 | [Feed](https://www.linchangyu.com/feed.xml) | 风雨雷电堂 | https://www.linchangyu.com | 极客; 编程; UX | x | x |
 | [Feed](https://whites.space/feed) | White Space | https://whites.space | 设计随笔; 生活; 思考 | x | x |
 | None | 小 pu 的博客 | https://www.puronglong.com/ | 生活; 随想; 分享 | - | - |
-| [Feed](https://fxpai.com/feed) | 非学·派 | https://fxpai.com | 摄影; 技术; 随笔 | 2026/06/23 12:17:25 | 大美东北，来一次挺费腿 |
+| [Feed](https://fxpai.com/feed) | 非学·派 | https://fxpai.com | 摄影; 技术; 随笔 | 2026/06/28 12:57:47 | 在国内油车会死的另一个原因 |
 | [Feed](https://imayx.top/index.xml) | Ayx 博客 | https://imayx.top/ | 信息学竞赛; C++; 算法; 编程; 想法; 随笔; 生活; 分享; 记录 | 2024/12/17 00:00:00 | PaperMC 服务器允许刷线机/无头活塞等配置 |
 | [Feed](https://wangyou233.wang/rss) | 忘忧 忘忧的小站 | https://wangyou233.wang/ | 编程; 技术; 分享; 生活 | 2025/11/14 08:53:59 | SqlServer高频面试题(持续更新251114) |
 | [Feed](https://www.packetmania.net/atom.xml) | 网络热度 | https://www.packetmania.net | 网络; 编程; 密码学 | 2025/11/30 21:30:17 | LeetCode 75 学习计划清单和参考答案 |
@@ -661,13 +661,13 @@
 | [Feed](https://shellc.cn/feed.xml) | 蟹壳 | https://shellc.cn | 技术; 读书; 创业; 投资 | 2024/10/08 00:00:00 | 如何逃顶 |
 | [Feed](https://www.icebreaker.top/rss.xml) | icebreaker | https://www.icebreaker.top | 大前端; 编程; 随笔; 即时战略 | x | x |
 | [Feed](https://xqrp.com/feed) | 闲趣日评 | https://xqrp.com | 生活; 笔记; 分享 | x | x |
-| [Feed](https://www.tortorse.com/atom.xml) | 愆伏 | https://www.tortorse.com | 产品; 前端; 设计; 杂谈 | 2026/06/18 04:26:19 | 专业的事，还是让专业的人做吧 |
+| [Feed](https://www.tortorse.com/atom.xml) | 愆伏 | https://www.tortorse.com | 产品; 前端; 设计; 杂谈 | 2026/06/25 14:14:57 | 香港和台湾给我的两种感觉 |
 | [Feed](https://www.librehat.com/feed) | Librehat's Blog | https://www.librehat.com | C++; Qt; Python; Linux; Windows; 网络; 编程; 生活 | 2025/12/29 11:01:50 | Install Citrix Receiver for Linux in Toolbox |
 | [Feed](https://fengmengzhao.github.io/feed.xml) | 冯兄话吉博客 | https://fengmengzhao.github.io/ | Java; Linux; 编程; 生活 | 2024/07/12 00:00:00 | 当AI遇到程序员如何做加法 |
 | [Feed](https://zuopin.jingluole.com/feed) | 当代写作仓库 | https://zuopin.jingluole.com/ | 纯文学; 写作; 小说; 诗歌; 随笔 | x | x |
 | [Feed](https://blog.didispace.com/atom.xml) | 程序猿DD | https://blog.didispace.com/ | Java; Spring; 编程; 思考 | 2023/09/04 01:50:27 | 2.1K Star，一个帮你自动完成JavaDoc注释的IDEA插件 |
 | [Feed](https://www.buzhangjiuzhou.com/index.php/feed/) | 步丈九州的博客 | https://www.buzhangjiuzhou.com/ | 博客; 随想 | 2025/04/08 12:31:00 | 回答Dayu也是自答：Dayu问向博客作者的9个问题 |
-| [Feed](https://www.skyue.com/feed/) | SKYue's Home | https://www.skyue.com/ | 生活; 股票投资; 产品经理; 软件数码 | 2026/06/21 08:41:00 | 端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验 |
+| [Feed](https://www.skyue.com/feed/) | SKYue's Home | https://www.skyue.com/ | 生活; 股票投资; 产品经理; 软件数码 | 2026/06/28 13:12:00 | vibe coding上瘾，真上瘾 |
 | [Feed](https://www.bbing.com.cn/index.xml) | BBing's Blog | https://www.bbing.com.cn/ | 编程; 随笔 | 2026/06/23 09:28:09 | git-cm：在终端里用 LLM 生成 commit message |
 | [Feed](https://lzw-723.github.io/atom.xml) | lzw-723's blog | https://blog.lzwi.fun/ | 编程; 翻译; 写作; 动画; 生活 | 2022/03/06 02:24:49 | raylib基础学习 |
 | [Feed](https://2bab.me/atom.xml) | 2BAB 的工程博客 | https://2bab.me/ | Android; 编译构建 | x | x |
@@ -679,14 +679,14 @@
 | None | 遥近 | https://www.yjdzm.com | 前端; 编程; 思考 | - | - |
 | [Feed](https://qianguyihao.com/atom.xml) | 千古壹号 | https://www.qianguyihao.com | 前端; 读书笔记; 产品思考; 软件工具; 具体生活 | x | x |
 | [Feed](https://blog.kevinzhow.com/rss/) | Kevin Blog | https://blog.kevinzhow.com/ | 产品; 技术; 生活 | x | x |
-| [Feed](https://blog.xlab.app/atom.xml) | Tmr Blog | https://blog.xlab.app/ | 安全; 思考 | 2026/03/26 14:17:57 | Letting AI Actively Manage Its Own Context |
+| [Feed](https://blog.xlab.app/atom.xml) | Tmr Blog | https://blog.xlab.app/ | 安全; 思考 | 2026/06/29 06:24:12 | 做更好的信息阅读 |
 | [Feed](https://mantyke.icu/index.xml) | 小球飞鱼 | https://mantyke.icu/ | 生活; 笔记; 读书 | 2026/06/24 00:00:00 | 游客们观测到了小球飞鱼在水面上游玩的讯息。 |
 | [Feed](https://blog.yuanpei.me/atom.xml) | 素履独行 | https://blog.yuanpei.me | 编程; 生活; 思考 | x | x |
 | [Feed](https://kaifeiji.cc/atom.xml) | 开飞机的老张 | https://kaifeiji.cc | 编程; 手工; 随笔 | 2026/03/18 06:08:32 | AGENTS.md |
 | [Feed](https://jdhao.github.io/index.xml) | jdhao's blog | https://jdhao.github.io/ | 编程; Nvim; 生活; 读书; 思考 | 2026/05/13 18:14:50 | Manage uv.lock file with Renovate |
 | [Feed](https://sogola.com/index.xml) | 王小嗨的不老歌 | https://sogola.com/ | 马克思主义; 工人; 工厂; 读书; 翻译 | 2024/01/15 23:52:00 | 網路受限下部署Fediverse實例GoToSocial |
 | [Feed](https://eurychen.me/index.xml) | 东泽煮粥 | https://eurychen.me/ | 机器学习; 区块链; 音乐; 生活 | x | x |
-| [Feed](https://icys.top/atom.xml) | icy's blog | https://icys.top/ | 编程; 思考; 笔记 | 2026/04/11 08:43:24 | 从 CallBack 到 Promise，React 框架异步开发学习心得 |
+| [Feed](https://icys.top/atom.xml) | icy's blog | https://icys.top/ | 编程; 思考; 笔记 | 2026/06/28 16:35:40 | 英文学术论文写作指南 |
 | [Feed](https://www.iots.vip/atom.xml) | Alliot's blog | https://www.iots.vip/ | 编程; 技术; 运维; 硬件 | 2026/04/04 16:00:00 | 验光配镜扫盲 |
 | [Feed](https://itcharge.cn/feed/) | 程序员充电站 | https://itcharge.cn | iOS; 算法; 数据结构; 生活 | x | x |
 | [Feed](https://blog.yuk7.com/atom.xml) | Yuk的部落格 | https://blog.yuk7.com/ | 编程; 技术; 绘画; 生活 | x | x |
@@ -711,7 +711,7 @@
 | [Feed](https://xieguanglei.github.io/blog/feed.xml) | 一叶斋 | https://xieguanglei.github.io | 编程; 随笔 | 2025/08/21 00:00:00 | 写在《小丑牌》全卡组金注之后 |
 | [Feed](https://w.toomore.us/index.xml) | WangDeer | https://w.toomore.us | 生活; 读书; 编程 | 2025/08/07 09:34:57 | 非机动车交通规则测验 |
 | [Feed](https://www.whexy.com/feed/feed.xml) | Wenxuan 1999 | https://www.whexy.com | 编程; 安全; 系统 | x | x |
-| [Feed](https://www.iccat.cn/feed) | 屹铭说 | https://www.iccat.cn | 生活; 阅读; 摄影 | x | x |
+| [Feed](https://www.iccat.cn/feed) | 屹铭说 | https://www.iccat.cn | 生活; 阅读; 摄影 | 2025/10/17 09:43:21 | 🐉 达梦数据库(DM)等效脚本转换（Oracle → 达梦） |
 | [Feed](https://xsn123.top/feed/) | JohnSmith的小家 | https://xsn123.top | 生活; 随笔; 编程; 科研 | x | x |
 | [Feed](https://shinekid.com/feed/) | ShineKid | https://shinekid.com/ | 生活; 影视; 文学 | 2026/06/04 14:38:54 | 密码保护：東京エンタメ覇王 設定 |
 | [Feed](https://zincnode.com/index.xml) | An's Blog | https://zincnode.com | 编程; 思考; 生活 | 2022/02/05 15:46:59 | 「 折腾日志」: 家庭网络 |
@@ -719,13 +719,13 @@
 | [Feed](https://blog.noicdi.com/atom.xml) | zStack | https://blog.noicdi.com | 笔记; 编程; 随笔 | 2025/06/06 06:36:51 | Kerberos 认证体系引起的产品系统免密问题 |
 | [Feed](https://u.sb/rss.xml) | 烧饼博客 | https://u.sb | 运维; 域名 | 2026/05/19 19:12:04 | Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute |
 | None | xuetengfei'Blog | https://xuetengfei.github.io/ | 编程 | - | - |
-| [Feed](https://leimao.github.io/atom.xml) | Lei Mao's Log Book | https://leimao.github.io/ | 人工智能; 机器学习; 计算机科学; 编程 | 2026/06/20 07:00:00 | The City Eats & Stack Run Club - Hayward 5K 竞赛 |
+| [Feed](https://leimao.github.io/atom.xml) | Lei Mao's Log Book | https://leimao.github.io/ | 人工智能; 机器学习; 计算机科学; 编程 | 2026/06/27 07:00:00 | 美国加州令人困惑的交通信号和标识 |
 | [Feed](https://blog.gd1214b.icu/atom.xml) | gd1214b's blog | https://blog.gd1214b.icu/ | 技术; 时评 | x | x |
 | [Feed](https://blog.yeefire.com/atom.xml) | Sirius's Blog | https://blog.yeefire.com | 编程; 运维; 生活; Linux; 分享 | 2021/09/06 02:05:41 | 腾讯云/轻量云 安装ArchLinux的个人记录 |
-| [Feed](https://blog.7wate.com/rss.xml) | 7Wate`s Blog | https://blog.7wate.com | 生活; 开发; 旅行; 摄影; 分享 | 2026/06/09 16:00:00 | 基于万形做的一些小玩意儿 |
+| [Feed](https://blog.7wate.com/rss.xml) | 7Wate`s Blog | https://blog.7wate.com | 生活; 开发; 旅行; 摄影; 分享 | 2026/06/22 16:00:00 | 知识花园：构建你的第二大脑 |
 | [Feed](https://www.luckydesigner.space/feed) | 行运设计师 | https://www.luckydesigner.space | 编程; 分享; 技术; 科技 | 2026/06/08 02:23:25 | 你的LLM上下文太长了？Headroom帮你砍掉90%的Token，答案还一样准 |
 | [Feed](https://www.congcong.us/feed) | 司马他 | https://www.congcong.us | 生活; 随笔; 编程 | 2026/03/05 09:35:04 | SkillsMiddleware解析 |
-| [Feed](http://elmagnifico.tech/feed.xml) | elmagnifico | http://elmagnifico.tech | 嵌入式; 随笔; 游戏; 编程 | 2026/06/18 16:00:00 | 第一次骨折 |
+| [Feed](http://elmagnifico.tech/feed.xml) | elmagnifico | http://elmagnifico.tech | 嵌入式; 随笔; 游戏; 编程 | 2026/06/25 16:00:00 | AI工作流 |
 | [Feed](https://blog.yuhang.ch/index.xml) | 陈昱行博客 | https://blog.yuhang.ch | 随笔; 生活; 技术 | x | x |
 | [Feed](https://bninecoding.com/atom.xml) | 冰以东的博客 | https://bninecoding.com/ | iOS; 编程; 职场; 产品观; 技术方案 | x | x |
 | [Feed](https://www.frankindev.com/feed.xml) | inDev. Journal | https://www.frankindev.com/ | 编程; 分享; 技术; 科技 | 2022/08/31 16:00:00 | Upgrade Ubuntu servers |
@@ -733,7 +733,7 @@
 | [Feed](https://zahui.fan/index.xml) | 杂烩饭 | https://zahui.fan | 编程; 运维; 技术; 折腾; 安全 | x | x |
 | [Feed](https://conge.github.io/feed.xml) | conge | https://conge.github.io/ | 生活; 跑步; 阅读 | 2026/06/11 22:26:00 | 2026年五月 读设计学 心理学 整理术 小说 7 本 |
 | [Feed](https://blog.zhangda.xyz/feed/) | zd小达's blog | https://blog.zhangda.xyz/ | 技术; 折腾; 教程 | x | x |
-| [Feed](https://sumsec.me/resources/atom.xml) | 像清水一般清澈透明 | https://sumsec.me/ | 技术; 安全; 生活; Java安全 | 2026/05/25 05:27:13 | 模型人人都能用，什么才是你能带走的？我的答案是一个可进化的SKILL库 |
+| [Feed](https://sumsec.me/resources/atom.xml) | 像清水一般清澈透明 | https://sumsec.me/ | 技术; 安全; 生活; Java安全 | 2026/06/27 06:44:21 | 从手改 Skill 到自动进化：评测结果和执行轨迹如何让 Agent 变稳 |
 | [Feed](https://roy.wang/feed/) | ROYWANG | https://roy.wang/ | 技术; 生活; 日记 | 2026/01/14 18:12:19 | 小米14 体验报告 |
 | [Feed](https://gh0st.cn/feed.xml) | Vulkey_Chen's Blog | https://gh0st.cn/ | 安全; 编程 | 2026/03/15 16:00:00 | 提权实录：通过命名管道劫持可写服务 |
 | [Feed](https://blog.zjun.info/rss.xml) | zjun's blog | https://blog.zjun.info/ | 安全; 笔记 | x | x |
@@ -761,7 +761,7 @@
 | [Feed](https://blog.moeif.com/index.xml) | Moeif | https://blog.moeif.com/ | 独立开发; 技术; 游戏 | x | x |
 | [Feed](https://pinlyu.com/atom.xml) | 频率 - 风卷过的起点 | https://pinlyu.com | 随笔; 观点; 读书; 影视 | x | x |
 | [Feed](https://lishuangquan.cn/index.xml) | Peacalm Notes - 双全的网站 | https://lishuangquan.cn | 编程; 后端; 互联网; 技术; 笔记 | 2024/10/22 14:20:14 | Lua C API中的迷惑行为 \| Lua C API Confusions |
-| [Feed](https://icodex.me/atom.xml) | icodex - 个人网站 | https://icodex.me | 编程; 前端; 互联网; 技术; 笔记 | 2026/06/22 00:00:00 | 2026-06-22-AI 产品周报 |
+| [Feed](https://icodex.me/atom.xml) | icodex - 个人网站 | https://icodex.me | 编程; 前端; 互联网; 技术; 笔记 | 2026/06/28 00:00:00 | 2026-06-28-前端与AI技术周报 |
 | [Feed](https://shrik3.com/index.xml) | shrik3 | https://shrik3.com | 编程; 技术; 随笔; 音乐 | 2026/03/13 17:58:42 | WIP side channels {meltdown, spectre} |
 | [Feed](https://megamu.icu/feed.xml) | MegaMU个人站 | https://megamu.icu/ | 编程; 生活; 校园; 技术 | x | x |
 | None | Alfxjx的博客 | https://www.abandon.work | 前端; 生活 | - | - |
@@ -818,20 +818,20 @@
 | [Feed](https://dmesg.app/feed) | 土豆不好吃 | https://dmesg.app | 编程 | 2026/05/18 04:33:50 | 我的欧洲生活 奥地利 |
 | [Feed](https://www.kawabangga.com/feed) | 卡瓦邦噶！ | https://www.kawabangga.com | 编程; 随笔; 技术 | 2026/06/10 11:52:00 | 服务器高性能网络调优 |
 | [Feed](https://moc.1tlt1.com/index.php/feed) | 伊藤•博文 | https://moc.1tlt1.com | 技术; 随笔; 科研 | x | x |
-| [Feed](https://51.ruyo.net/feed) | 如有乐享 | https://51.ruyo.net | 技术; 分享 | 2026/06/25 00:40:03 | Wasmer免费云部署：支持GitHub一键部署，可绑自定义域名 |
+| [Feed](https://51.ruyo.net/feed) | 如有乐享 | https://51.ruyo.net | 技术; 分享 | 2026/06/29 00:28:23 | 腾讯 Agent 专属邮箱来了，附CLI安装与Python API封装 |
 | [Feed](http://blog.shyclouds.net/feed/) | 楚天乐的小站 | http://blog.shyclouds.net/ | 编程 | 2025/04/29 21:04:00 | procrastinated单词终极指南：发音/中文解释/英文解释/词源/例句全解 \| myxtea学英语 |
 | None | 胡正 | http://www.huzheng.org/ | 编程; 佛教 | - | - |
 | None | Rhuen - Rivendell | https://rhuen.netlify.app/ | 生活; 工作; 成长 | - | - |
 | [Feed](https://lhcy.org/feed) | 林海草原 | https://lhcy.org | 生活; 工作; 人生; 思考 | 2025/11/19 08:59:50 | WordPress插件HTACCESS Manager |
 | [Feed](https://hetaoblog.site/atom.xml) | 无章 | https://hetaoblog.site/ | 编程; 随笔; 思考; 技术 | x | x |
-| [Feed](https://hehysh.github.io/atom.xml) | 十贰的小窝 | https://hehysh.github.io/ | 技术; 随笔; 思考; 成长 | 2026/06/24 11:17:34 | 后记 |
+| [Feed](https://hehysh.github.io/atom.xml) | 十贰的小窝 | https://hehysh.github.io/ | 技术; 随笔; 思考; 成长 | 2026/06/26 10:02:49 | 二周目了 |
 | [Feed](https://coffeelize.top/atom.xml) | 智朋的个人博客 | https://coffeelize.top/ | 生活; LaTeX; 随笔; 分享 | 2025/03/28 01:55:40 | Anki 笔记读取器 |
 | [Feed](https://chestnutheng.cn/index.xml) | 子恒的博客 | https://chestnutheng.cn/ | 后台; 互联网; 读书; 旅行 | x | x |
 | [Feed](https://www.chancel.me/rest/api/v1/feed) | Chancel's blog | https://www.chancel.me/ | 技术; 编程; 网络 | x | x |
 | [Feed](https://www.huhangfei.com/feed/) | 互航飞 | https://www.huhangfei.com/ | 技术; 分享 | 2025/04/07 07:49:27 | DigitalOcean VPS评测及购买教程：附200美元优惠 |
 | [Feed](https://blog.jimersylee.com/feed) | Jimersy Lee’s blog | https://blog.jimersylee.com/ | 技术; 分享; 随笔; 成长 | x | x |
 | [Feed](https://blog.jimmieluo.com/feed) | Jim Luo's blog | https://www.jimmieluo.com/ | 编程; 生活; 思考 | x | x |
-| [Feed](https://blog.zhheo.com/rss.xml) | 张洪Heo | https://blog.zhheo.com/ | 设计; 编程; 生活; 产品 | 2026/06/18 02:27:38 | AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难 |
+| [Feed](https://blog.zhheo.com/rss.xml) | 张洪Heo | https://blog.zhheo.com/ | 设计; 编程; 生活; 产品 | 2026/06/29 02:45:48 | 小米平板8Pro上手：便宜且流畅的好平板，安卓平板的高效令人印象深刻 |
 | [Feed](https://blog.save-web.org/feed/) | Save The Web Project | https://blog.save-web.org/ | 存档; 备份; 互联网; 公益 | 2026/06/14 23:53:42 | STWP 02026 五月 meetup |
 | [Feed](https://www.albertaz.com/rss.xml) | AlbertAz's Blog | https://www.albertaz.com/ | 前端; 技术; 绘画; 笔记 | 2024/09/16 00:00:00 | Migrate my website to SvelteKit2 |
 | [Feed](https://newsletter.laborinfocn.com/rss) | 工劳小报 | https://newsletter.laborinfocn.com/ | 工人; 劳动; 分享 | 2026/06/24 00:45:07 | 残障人士遭强迫劳动再引关注，网约车司机疲劳驾驶平台被定责｜工劳小报 #86 新闻刊 |
@@ -842,7 +842,7 @@
 | [Feed](https://blog.17lai.site/atom.xml) | 夜法之书 | https://blog.17lai.site | 技术; 开源; hexo; 成长; nas; linux | 2026/06/22 16:00:00 | 在Linux上运行OpenAI Codex Desktop完整指南 |
 | [Feed](https://blog.makerlife.top/atom.xml) | Makerlife 的小站 | https://blog.makerlife.top | 编程; C++; 信息学竞赛; 分享; 笔记 | 2025/11/29 14:54:00 | 2025-2026 赛季 游记 && 退役记 |
 | [Feed](https://zishu.me/index.xml) | 子舒的博客 | https://zishu.me | 技术; 生活; 随笔 | 2026/05/29 00:00:00 | 安卓APP通话记录与录音上传踩坑记录 |
-| [Feed](https://maie.name/feed) | 流浪天下 | https://maie.name | 户外; 旅行; 行走; 随笔; vtiger | 2026/06/10 10:16:08 | NAS Docker 中安装 Lucky 实现反代备忘录 |
+| [Feed](https://maie.name/feed) | 流浪天下 | https://maie.name | 户外; 旅行; 行走; 随笔; vtiger | 2026/06/27 11:36:27 | 南方遥远，故土漫长｜《遥望南方的童年》观影记 |
 | [Feed](https://zguishen.com/atom.xml) | zguishen's blog | https://zguishen.com | 技术; 生活; 随笔 | x | x |
 | [Feed](https://blog.sayhi.moe/index.php/feed/) | 洛雪のCat | https://blog.sayhi.moe | 校园; 生活; 随笔; 二次元; 日常 | 2025/12/31 15:00:00 | 本世纪四分之一的夜 |
 | None | 一念 | https://xnzw.org | 生活; 随笔; 佛学 | - | - |
@@ -893,12 +893,12 @@
 | [Feed](https://penghh.fun/atom.xml) | 效率工具指南 | https://penghh.fun | 效率工具; 软件; Macbook; 前端; 工具; App; 博客; 写作 | 2025/11/25 11:03:46 | 剪贴板的图片怎么保存到本地？一篇彻底搞定！【效率工具指南】 |
 | [Feed](https://mark24code.github.io/feed.xml) | Mark24Code | https://mark24code.github.io | 前端; 技术; 博客; 随笔; 编程思考 | 2025/02/08 09:26:39 | 为什么每个人都讨厌 fork(2) ？ |
 | [Feed](https://blog.xiaozhao233.top/feed/) | 小赵博客 - XiaoZhao233 | https://blog.xiaozhao233.top | 日记; 随笔; 学习; 技术分享; 思考; 阅读 | x | x |
-| [Feed](https://www.zy99.net/feed) | 翻身猫 | https://www.zy99.net | 自媒体; 建筑; 学习 | x | x |
+| [Feed](https://www.zy99.net/feed) | 翻身猫 | https://www.zy99.net | 自媒体; 建筑; 学习 | 2023/04/19 09:31:02 | 混凝土工程实体质量精细化管控，三维图做得棒极了！ |
 | [Feed](https://www.macin.org/atom.xml) | Macin | https://macin.org | 分享; 投资; 学习; Crypto; 日常; 阅读; 人文 | 2026/06/23 12:55:53 | 茶店老街，也快没有住户了... |
 | [Feed](https://blog.l0v0.com/atom.xml) | 智伤帝 | https://blog.l0v0.com/ | 编程; 技术美术; 随笔 | 2022/12/14 02:54:16 | Python 代码规范 |
 | [Feed](https://bili33.top/atom.xml) | GamerNoTitle | https://bili33.top | 编程; 学习; 技术; 杂谈 | 2026/06/17 19:22:10 | iPhone 17/iOS 26 初体验 |
 | [Feed](https://yuzhang.wang/atom.xml) | YuZhangWang的领域 | https://yuzhang.wang/ | 编程; DL; ML; 生活记录; 项目描述 | x | x |
-| [Feed](http://www.jfsay.com/feed) | 静风说 | http://www.jfsay.com | 生活; 读书; 电影; 旅游 | 2026/06/22 04:05:29 | 第一次网购整颗菠萝蜜 |
+| [Feed](http://www.jfsay.com/feed) | 静风说 | http://www.jfsay.com | 生活; 读书; 电影; 旅游 | 2026/06/29 04:26:55 | 学习吹葫芦丝（2） |
 | [Feed](https://owlswims.com/feed) | To the Lighthouse | https://owlswims.com | 读书; 播客; 随笔; 书评; 人文 | 2026/01/01 23:05:58 | 2025，世间所有的云 |
 | [Feed](http://blog.trumandu.top/atom.xml) | TrumanDu 博客 | http://blog.trumandu.top/ | 日记; 随笔; 学习; 技术分享; 思考; 阅读 | 2026/06/10 14:56:32 | 深入理解 MCP |
 | [Feed](https://vlight.me/rss2.xml) | Wang's Blog | https://vlight.me/ | 数值计算; 优化算法 | 2023/01/11 15:49:50 | 【Atlas 移植训练营 极市×昇腾】 Atlas 移植初体验 |
@@ -908,7 +908,7 @@
 | [Feed](https://yubolun.com/feed.xml) | Yubolun 博客 | https://yubolun.com/ | 编程; 投资; 加密货币 | 2025/12/13 16:00:00 | 在 Claude Code 中以 MCP 接入 Codex |
 | [Feed](https://blackholemax.github.io/atom.xml) | BlackHole's Blog | https://blackholemax.github.io/ | 编程; 人文社科; 阅读; 随笔 | 2025/10/06 13:07:29 | 用 Podman 在家用电脑搭私人 WebDAV 书签同步服务 |
 | [Feed](https://mephisto.cc/index.xml) | Mephisto's blog | https://mephisto.cc/ | Linux; Python; Travel; Note | 2026/06/24 00:00:00 | Wayland合成器下快速连接蓝牙设备 |
-| [Feed](http://feed.tonybai.com/) | Tony Bai | https://tonybai.com/ | 编程; Golang; GO | 2026/06/25 00:09:36 | 浏览器里的“安全阴谋”：为什么 Go 1.27 的 UUIDv7 会离奇丧失随机性？ |
+| [Feed](http://feed.tonybai.com/) | Tony Bai | https://tonybai.com/ | 编程; Golang; GO | x | x |
 | [Feed](https://blog.laoda.de/rss.xml) | 我不是咕咕鸽 | https://blog.laoda.de/ | 编程; 技术分享; 网络; 容器; VPS | 2026/05/15 06:59:47 | 关键时刻不能掉链子！一年235元开机即用！大陆漫游上网备用方案：3HK 大湾区 eSIM 储值卡购买激活全流程分享（2026） |
 | None | YYshino's Blog | https://v-blog.yyshino.top/ | 编程; 前端; 计算机基础; 随笔 | - | - |
 | [Feed](https://www.vinoca.org/atom.xml) | 方永、南天紫云 | https://www.vinoca.org/ | 编程; 随笔 | 2026/06/17 09:30:00 | OpenWrt上的分流和自动翻墙 |
@@ -922,7 +922,7 @@
 | [Feed](https://66619.eu.org/feed/) | 619's blog | https://66619.eu.org/ | 学习; 编程; 随笔 | x | x |
 | None | 铁匠's blog | http://blog.fengjx.com/ | 编程; 技术; 随笔 | - | - |
 | [Feed](https://trle5.xyz/atom.xml) | Hubert's Blog | https://trle5.xyz/ | 综合; 杂谈; 教程 | 2026/05/19 00:00:00 | golang template 库使用教程 |
-| [Feed](https://smallyu.net/atom.xml) | smallyu的博客 | https://smallyu.net/ | 技术; 生活; 区块链 | 2026/06/18 14:21:51 | AI Agent 看板 |
+| [Feed](https://smallyu.net/atom.xml) | smallyu的博客 | https://smallyu.net/ | 技术; 生活; 区块链 | 2026/06/29 08:15:54 | 为什么 DM KOL 的 GTM 策略一定是 “对” 的 |
 | [Feed](https://toast.pub/totoro/index.xml) | 吐司面包 | https://toast.pub/totoro/ | 技术; 生活 | x | x |
 | [Feed](https://oi-liu.com/atom.xml) | vegetable1024的博客 | https://oi-liu.com/ | 算法竞赛; 技术; 随笔 | x | x |
 | [Feed](https://kenvix.com/rss.xml) | Kenvix's Blog | https://kenvix.com/ | 编程; 计算机网络; Windows; 技术; 分享; Kotlin | 2026/02/02 06:25:50 | 实现带有Nvidia GPU+Rootless Podman+Docker+Systemd+自动驱动注入支持的systemd nspawn容器 |
@@ -943,12 +943,12 @@
 | [Feed](https://blog.wangtwothree.com/feed) | 膨胀的面包 | https://blog.wangtwothree.com/ | 编程; 开发板; 技术; 教程 | x | x |
 | [Feed](https://blog.moeworld.tech/feed/) | 晓空blog | https://blog.moeworld.tech/ | 生活; 开发，日常; 二次元; 游戏 | 2026/06/20 02:32:39 | 2026端午节快乐 |
 | [Feed](https://www.mosuzi.com/atom.xml) | Mosu - Mosuzi的博客 | https://www.mosuzi.com/ | 随笔; 生活; 开发 | 2026/05/21 14:58:34 | 一次让我重新理解 touchmove 的线上 Debug |
-| [Feed](https://weishu.me/atom.xml) | Weishu's Notes | https://weishu.me/ | 编程 | 2025/12/26 07:24:17 | AI 时代，何以自处？ |
+| [Feed](https://weishu.me/atom.xml) | Weishu's Notes | https://weishu.me/ | 编程 | 2026/06/29 03:28:09 | Agent 时代的 X-Y Problem |
 | [Feed](https://blog.verynb.me/atom.xml) | 晴雀堂 | https://blog.verynb.me/ | 生活; 成长; 人生; 技术 | x | x |
 | [Feed](https://blog.skywt.cn/feed/) | SkyWT | https://blog.skywt.cn/ | 技术; 开发; 生活 | 2025/12/17 02:00:00 | 那些「酷，但用不着」的 self-hosted 应用 |
 | [Feed](https://jingine.com/feed/) | Jing Blog | https://jingine.com/ | 技术; 海外; 随笔 | x | x |
 | [Feed](http://wjd.name/feed/) | 王佳冬中文博客 | http://wjd.name/ | 旅行; 产品; 随笔 | 2026/06/17 03:11:34 | AI版支付宝来了！史上最大改版体验 |
-| [Feed](http://hugeterry.cn/feed) | HugeTerry-Den | http://hugeterry.cn/ | 技术; 生活; 调酒 | x | x |
+| [Feed](http://hugeterry.cn/feed) | HugeTerry-Den | http://hugeterry.cn/ | 技术; 生活; 调酒 | 2025/12/27 07:14:34 | 跃新2025 |
 | [Feed](https://lmmsoft.github.io/feed.atom) | 明明如月的博客 | https://lmmsoft.github.io/ | 编程; 旅行; 运动 | 2026/05/20 16:00:00 | 让 Codex App 和 CLI 单独走代理：不再和 VPN 抢系统代理 |
 | None | 我的成长实证 | https://www.xiexie.me | 学习; 生活; 成长 | - | - |
 | [Feed](https://www.ahianzhang.com/index.xml) | 象帝浮华生 | https://www.ahianzhang.com/ | 技术; 架构 | 2024/12/20 07:07:28 | Elasticsearch 检索性能优化 |
@@ -957,13 +957,13 @@
 | None | Sixty's Den | https://www.sixtyden.com/ | 前端; 阅读 | - | - |
 | [Feed](https://notes.cerallin.top/atom.xml) | Cerallin's blog | https://notes.cerallin.top | 编程; 笔记本 | x | x |
 | [Feed](https://www.cestlavie.moe/index.xml) | Cestlavie's Blog | https://www.cestlavie.moe/ | 学习; 技术; 生活; 日常 | 2023/11/11 03:30:55 | 自建 Tailscale 的 DERP Server |
-| [Feed](https://happyxiao.com/feed) | happy xiao 的博客 | https://happyxiao.com | 个人成长 | 2026/06/19 14:00:49 | 活时间，死时间 |
+| [Feed](https://happyxiao.com/feed) | happy xiao 的博客 | https://happyxiao.com | 个人成长 | 2026/06/27 06:38:07 | 最好的安排 |
 | [Feed](https://www.dongyao.ren/feed/) | Clark's 尧望 Blog | https://www.dongyao.ren/ | 编程; 学习; 日常 | 2026/05/15 16:50:19 | 宝塔面板，收手吧，别再拿用户数据安全开玩笑了 |
 | None | muzing的杂货铺 | https://muzing.top/ | 编程; Python; 车辆工程; 自动驾驶 | - | - |
 | [Feed](https://rook1e.com/feed.xml) | /home/rook1e | https://rook1e.com/ | 安全; 开发; 随笔 | 2026/01/03 08:08:49 | AI 编码小记 1 |
 | [Feed](https://ycao.top/feed.xml) | Yi's Blog | https://ycao.top/ | 编程; 学习; 生活 | x | x |
 | [Feed](https://youngforever.tech/index.xml) | 从百草园到三味书屋 | https://youngforever.tech/ | 科研; 人工智能; 论文; 学习 | 2024/10/28 17:53:00 | 医学人工智能周刊7｜医疗人工智能算法的公平性 |
-| [Feed](https://www.longluo.me/atom.xml) | Long Luo's Life Notes | https://www.longluo.me/ | 数学; 物理; 算法; 编程; 技术; 学习; 生活 | 2026/06/24 13:21:39 | 夏至日测地球：利用太阳影子计算地球半径 |
+| [Feed](https://www.longluo.me/atom.xml) | Long Luo's Life Notes | https://www.longluo.me/ | 数学; 物理; 算法; 编程; 技术; 学习; 生活 | 2026/06/27 04:08:31 | 太阳温度是怎么计算出来的？ |
 | [Feed](https://moeyua.com/atom.xml) | 四畳半のへや | https://moeyua.com/ | 计算机; 阅读; 日常; 游戏 | 2023/12/28 17:16:37 | My App Defaults 2023 |
 | [Feed](https://hotarugali.github.io/atom.xml) | お前はどこまで見えている | https://hotarugali.github.io/ | 编程; 技术; 论文; 学习 | 2025/03/31 15:46:55 | 天文相关资源汇总 |
 | [Feed](https://magren.me/atom.xml) | Magren's Blog | https://magren.me/ | 编程; 前端; 随笔; 生活 | x | x |
@@ -985,9 +985,9 @@
 | [Feed](https://icooper.cc/feed/) | iCooper | https://icooper.cc/ | 编程; 技术; 生活; 日志; 学习 | x | x |
 | None | TARESKY | https://taresky.com/ | 生活; 数码 | - | - |
 | [Feed](https://www.immaxfang.com/atom.xml) | Max的技术札记 | https://www.immaxfang.com/ | 编程; 后端; 云原生 | x | x |
-| [Feed](https://blog.wohin.me/index.xml) | Fernweh | https://blog.wohin.me | 信息安全; 诗歌; 随笔 | 2026/05/24 00:00:00 | 文章分类与统计 |
+| [Feed](https://blog.wohin.me/index.xml) | Fernweh | https://blog.wohin.me | 信息安全; 诗歌; 随笔 | 2026/06/25 00:00:00 | 文章分类与统计 |
 | [Feed](https://suiko.dev/rss/feed.xml) | Suiko的自留地 | https://suiko.dev/ | 编程; 前端 | x | x |
-| [Feed](https://dusays.com/atom.xml) | 杜老师说 | https://dusays.com/ | 运维，数码，资源 | 2026/06/24 18:17:29 | 推荐酷鸭数据主机 |
+| [Feed](https://dusays.com/atom.xml) | 杜老师说 | https://dusays.com/ | 运维，数码，资源 | 2026/06/28 17:44:57 | 推荐酷鸭数据主机 |
 | [Feed](https://fiftysixtimes7.github.io/MyWorldObservationJournal/feeds/all.atom.xml) | 世界观察日记 | https://fiftysixtimes7.github.io/MyWorldObservationJournal/ | 随笔; 思考; 哲学; 文学; 生活 | 2024/03/12 19:53:00 | 病态自我介绍 |
 | None | 夕泥 | https://www.xinies.cn/ | 编程; 前端; WEB; 全栈 | - | - |
 | [Feed](https://studyinglover.com/atom.xml) | plus studio | https://studyinglover.com/ | 编程; 机器学习; 计算机视觉; 元宇宙 | 2026/06/18 00:00:00 | HyFromer笔记 |
@@ -998,11 +998,11 @@
 | [Feed](https://www.jackpu.com/rss/) | 蒲小花的博客 | https://www.jackpu.com/ | 前端; 生活 | 2026/06/08 06:01:33 | 拥有孩子的得与失 |
 | None | growdu | https://growdu.gitee.io/dblog/ | 编程 | - | - |
 | [Feed](http://www.ccagml.com/?feed=rss2) | ccagml的博客 | http://www.ccagml.com | 编程 | 2023/09/03 14:20:17 | 使用valgrind观察luajit进程内存 |
-| [Feed](https://lxnchan.cn/atom.xml) | 泠泫凝的异次元空间 | https://lxnchan.cn/ | 运维; 后端 | 2026/06/11 06:13:19 | 通过串口安装Linux |
+| [Feed](https://lxnchan.cn/atom.xml) | 泠泫凝的异次元空间 | https://lxnchan.cn/ | 运维; 后端 | 2026/05/29 04:23:33 | 通过串口安装Linux |
 | None | Wrong.wang | https://wrong.wang/blog/ | 编程 | - | - |
 | [Feed](https://xiaoa.name/feed.xml) | Colorful - 一枚数字艺术家的自留地 | https://xiaoa.name/ | 编程; 前端; Javascript; Node.js; Rust; Java; Python; 读书笔记 | 2024/08/07 00:00:00 | 《精读源码》- GoT |
 | [Feed](https://www.sekyoro.top/atom.xml) | Sekyoro的博客小屋 | https://www.sekyoro.top | 编程; 学习笔记; 机器学习; 工具使用; 软件工程 | 2026/06/19 04:04:36 | C++重点知识回顾 |
-| [Feed](https://www.cheshirex.com/feed) | 柴郡猫 | https://www.cheshirex.com | 生活; 分享; 记录 | 2026/04/04 10:51:47 | 暂时停更几天 |
+| [Feed](https://www.cheshirex.com/feed) | 柴郡猫 | https://www.cheshirex.com | 生活; 分享; 记录 | 2026/06/25 07:26:05 | 一款基于Pengu Loader的全服可用英雄联盟客户端增强插件–Sona |
 | [Feed](https://h4ck.org.cn/feed/) | obaby@mars | http://nai.dog | 生活; 编程; 硬件; 人工智能 | 2026/06/24 06:27:00 | 松松垮垮 |
 | [Feed](https://aikenh.cn/index.xml) | aikenh | https://aikenh.cn/ | 生活; 学习; 编程; 技术 | 2025/03/30 14:16:22 | 使用 cloudflare 转发 ipv6 网页至 ipv4 |
 | [Feed](https://202271.xyz/atom.xml) | 醉里博客 | https://202271.xyz/ | 生活; 学习; 编程; 技术 | x | x |
@@ -1015,7 +1015,7 @@
 | [Feed](https://blog.sunguoqi.com/rss.xml) | 小孙同学 | https://blog.sunguoqi.com/ | 编程; 摄影; 生活; 笔记 | x | x |
 | [Feed](https://ming5ming.xlog.app/feed/xml) | ming5ming's blog | https://ming5ming.xlog.app/ | 编程; 技术; 笔记 | x | x |
 | [Feed](https://www.dreamlyn.cn/feed) | 牧尘的网络日志 | https://www.dreamlyn.cn/ | 解决生活、工作中遇到的问题 | x | x |
-| [Feed](https://blog.cmyr.ltd/atom.xml) | 草梅友仁的博客 | https://blog.cmyr.ltd/ | 编程; 技术; 前端; 日常; TypeScript; JavaScript; Vue; Node.js; Docker | 2026/06/22 18:56:03 | 记一次杭州·第二十二届中国国际动漫节的观后感 |
+| [Feed](https://blog.cmyr.ltd/atom.xml) | 草梅友仁的博客 | https://blog.cmyr.ltd/ | 编程; 技术; 前端; 日常; TypeScript; JavaScript; Vue; Node.js; Docker | 2026/06/28 10:30:10 | 记一次基于 Hermes Agent 的 AI 助手自动化深度使用体验 |
 | [Feed](https://yusank.space/index.xml) | Yusank's Site | https://yusank.space | 编程; 技术; Golang; Kubernetes; 学习; 笔记; 日常 | x | x |
 | [Feed](https://www.zhengwenfeng.com/rss.xml) | 郑文峰的博客 | https://www.zhengwenfeng.com | 编程; 技术; 学习; 生活; python; golang | 2026/02/24 11:05:52 | 使用dify对接飞书多维表格 |
 | [Feed](https://miaohn.github.io/index.xml) | MiaoHN's Blog | https://miaohn.github.io | 编程; 学习; 笔记; C++; Linux | x | x |
@@ -1032,7 +1032,7 @@
 | None | 闫越的网络日志 | https://yanyue404.github.io/blog/ | 基督徒; 歌者; 前端 | - | - |
 | [Feed](https://hjwu.cc/rss/feed.xml) | WuHJ's Personel Site | https://hjwu.cc | 生活; 音乐; 聊天 | x | x |
 | [Feed](https://blog.tifa-233.com/atom.xml) | Tifa's Blog | https://blog.tifa-233.com/ | 算法; 编程; C++; 信息学竞赛; 数学; 技术; 学习; 随笔; 笔记 | 2026/06/23 11:08:48 | 题解 - [Luogu P7486] 「Stoi2031」彩虹 |
-| [Feed](https://blog.si-on.top/atom.xml) | 子虚栈 | https://blog.si-on.top/ | 阅读; 生活; 材料科学; LaTeX; 摄影 | 2026/06/24 03:20:03 | 巨人的荷塘·其二 |
+| [Feed](https://blog.si-on.top/atom.xml) | 子虚栈 | https://blog.si-on.top/ | 阅读; 生活; 材料科学; LaTeX; 摄影 | 2026/06/27 09:12:48 | 巨人的荷塘·其二 |
 | None | 王先森的博客 | http://wangxiansen.top/ | 编程; Java; Angular; TypeScript; 日常; 摄影 | - | - |
 | [Feed](https://sjdhome.com/blog/atom.xml) | sjdhome blog | https://sjdhome.com/blog/ | 编程; 生活; 学习 | 2025/12/27 16:00:00 | 2025 年度总结 |
 | None | 小祝同学的日常 | https://www.zzy2001.com/ | 生活; 编程; 笔记 | - | - |
@@ -1048,8 +1048,8 @@
 | [Feed](https://blog.c3c.one/feed) | AlexSJC 的博客 | https://blog.c3c.one/ | 笔记; 技术; 学习; 随笔 | x | x |
 | [Feed](https://suiyan.cc/rss.xml) | 碎言博客 | https://suiyan.cc/ | 编程; 笔记; 随感 | x | x |
 | [Feed](https://blog.ctftools.com/atom.xml) | Dr3@m's Blog | https://blog.ctftools.com/ | 编程; 随笔; 经验 | 2026/03/03 06:43:26 | h5实现一种自动滚动的告警列表 |
-| [Feed](https://blog.renfei.net/rss.xml) | 任霏博客 | https://blog.renfei.net/ | 编程; Java; 经验 | 2026/05/27 00:00:00 | 我将关闭服务器：AI彻底掐死了奄奄一息的个人博客 |
-| [Feed](https://shuiba.co/feed) | Shuibaco • 水八口 | https://shuiba.co/ | 日常; 旅途; 思考 | 2026/06/21 22:03:00 | 33岁生日之淡路岛+布引香草园 |
+| [Feed](https://blog.renfei.net/rss.xml) | 任霏博客 | https://blog.renfei.net/ | 编程; Java; 经验 | 2026/06/27 14:54:32 | 我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路 |
+| [Feed](https://shuiba.co/feed) | Shuibaco • 水八口 | https://shuiba.co/ | 日常; 旅途; 思考 | 2026/06/27 02:00:00 | 岐阜下吕温泉 |
 | [Feed](https://iliu.org/feed) | 流金岁月 | https://iliu.org/ | 生活; 读书; 日常 | x | x |
 | [Feed](https://blog.darrenzzy.cn/atom.xml) | Darren blog | https://blog.darrenzzy.cn/ | 算法，编程，架构 | x | x |
 | [Feed](http://linglan01.cn/feed.xml) | 凌览社 | http://linglan01.cn/ | 前端; Node.js; 随笔; 编程 | x | x |
@@ -1060,13 +1060,13 @@
 | [Feed](https://blog.fanmiao.site/feed) | 饭喵 | https://blog.fanmiao.site | 编程; 智能; 生活 | 2023/08/05 03:02:51 | 关于python使用支付宝当面付报错的解决方案 |
 | [Feed](https://blog.zerolacqua.top/atom.xml) | 丘卡饮品店 | https://blog.zerolacqua.top/ | 学习; 生活; 编程 | 2026/06/13 13:39:56 | 小马入坑的东扯西扯 |
 | [Feed](http://yyy.zone/rss) | 识文解意的爱书人 | http://yyy.zone/ | 笔记; 札记 | x | x |
-| [Feed](https://oragekk.me/rss.xml) | Oragekk's Blog | https://oragekk.me/ | 编程; 思考; 学习笔记; 生活杂想; 随笔 | 2026/06/10 00:00:00 | ChatGPT&Codex订阅教程 |
+| [Feed](https://oragekk.me/rss.xml) | Oragekk's Blog | https://oragekk.me/ | 编程; 思考; 学习笔记; 生活杂想; 随笔 | 2026/06/29 00:00:00 | OpenSpec 技术分享：用规格驱动 AI 编程 |
 | None | Kexi Dang's blog | https://kexizeroing.github.io | 技术; 编程; 学习 | - | - |
 | [Feed](https://youerning.top/index.xml) | 又耳笔记 | https://youerning.top | 技术; 编程; 随笔 | 2026/04/26 12:30:00 | Chainlit入门：快速搞定 Python AI 对话机器人(智能体) |
 | [Feed](https://weaxsey.org/index.html) | 豆逗子的小黑屋 | https://weaxsey.org | 学习; 随笔; 编程 | x | x |
 | [Feed](https://blog.alswl.com/atom.xml) | Log4D | https://blog.alswl.com/ | 笔记; 技术; 学习; 随笔 | 2026/02/08 15:16:56 | 2025 年终总结 - 临界点 |
 | [Feed](https://fallen.wang/index.xml) | 沙多多的奇思妙想 | https://fallen.wang | 医学; 编程; 日常 | 2024/01/27 14:19:12 | 云端部署FaceFusion-AI换脸 |
-| [Feed](https://quant67.com/rss.xml) | 土法炼钢兴趣小组的博客 | https://quant67.com/ | 编程; 技术; 安全 | 2026/06/22 00:00:00 | 【身份与访问控制工程】身份系统迁移与事故响应 |
+| [Feed](https://quant67.com/rss.xml) | 土法炼钢兴趣小组的博客 | https://quant67.com/ | 编程; 技术; 安全 | 2026/06/21 00:00:00 | Linux 异步 I/O：epoll 与 io_uring 对比 |
 | [Feed](https://blog.cuger.cn/atom.xml) | Dorad's Life | https://blog.cuger.cn | 编程; 摄影; 日常; 科研 | 2026/02/25 01:39:00 | 2026第一场日出日落-黄山 |
 | [Feed](https://n.ova.moe/blog/rss.xml) | ネコのメモ帳 | https://n.ova.moe | 编程; 安全; 日常 | x | x |
 | None | 布袋青年 | https://great-jin.github.io | 编程; 笔记; 随感 | - | - |
@@ -1081,7 +1081,7 @@
 | [Feed](https://trudbot.cn/atom.xml) | trudbot's blog | https://trudbot.cn | 算法; 技术; 学习 | x | x |
 | [Feed](https://liuuzaki.net/feed) | 这里是L | https://liuuzaki.net | CG美术; 哲学; 社会; 各种杂学 | x | x |
 | [Feed](https://wp-boke.work/rss.xml) | shimmer | https://wp-boke.work | 前端; 技术分享; 生活; 摄影 | x | x |
-| [Feed](https://pythoncat.top/rss.xml) | 豌豆花下猫 - Python猫 | https://pythoncat.top | 编程; Python; 翻译; 随笔; 开源 | 2026/06/20 00:00:00 | Python 潮流周刊#155：Python 3.14 垃圾回收风波 |
+| [Feed](https://pythoncat.top/rss.xml) | 豌豆花下猫 - Python猫 | https://pythoncat.top | 编程; Python; 翻译; 随笔; 开源 | 2026/06/27 00:00:00 | Python 潮流周刊#156：Pydantic 接管 httpx 始末 |
 | None | s0urce's Lab | https://blog.src.moe | 笔记; 技术; 折腾; 生活 | - | - |
 | [Feed](https://wayjam.me/index.xml) | WAYJAM's Blog | https://wayjam.me | 随笔; 技术; 折腾 | 2026/02/15 05:26:00 | 告别 NPM Token：迁移到 Trusted Publishing 全记录 |
 | [Feed](https://xiaochopin.github.io/feed.xml) | 重生云 | https://xiaochopin.github.io/ | 随笔; 日常; 游戏; 笔记 | 2026/06/04 16:00:00 | 我听什么摇滚 |
@@ -1099,11 +1099,11 @@
 | [Feed](https://waahah.xyz/atom.xml) | 无名小站 | https://waahah.xyz/ | 编程; 踩坑; 记录 | x | x |
 | [Feed](https://qiu.se/feed) | 秋色部落 | https://qiu.se/ | 生活; 随笔; 运动 | x | x |
 | [Feed](https://www.helloseraphine.top/atom.xml) | Seraphineの小窝 | https://www.helloseraphine.top/ | 编程; 生活; 学习; 机器学习; 微软天坑 | 2025/11/24 02:29:43 | 送给师弟师妹最好的礼物！全组文献自由就靠这个脚本了 |
-| [Feed](https://dongjunke.cn/atom.xml) | 东评西就 | https://dongjunke.cn | 社交媒体; 科技互联网; 思考; 读书; 随笔; 分享 | 2026/06/11 15:01:35 | 我们免费写的字，平台拿去卖给了谁 |
+| [Feed](https://dongjunke.cn/atom.xml) | 东评西就 | https://dongjunke.cn | 社交媒体; 科技互联网; 思考; 读书; 随笔; 分享 | 2026/06/29 03:08:40 | 当AI开始互相写信 |
 | [Feed](https://leonfong.me/feed.xml) | Leon Fong 的个人网站 | https://leonfong.me | 编程; 前端; 分享; 记录; 技术 | x | x |
 | [Feed](https://mengke.me/feed.xml) | Ke's blog | https://mengke.me | 技术; 生活; 笔记 | 2026/05/17 00:00:00 | 年轻不是健康的免死金牌 |
 | [Feed](https://dbwu.tech/index.xml) | 蛮荆 | https://dbwu.tech | Go 语言; 云原生; CS 基础理论和软件 | 2024/04/01 00:00:00 | 如何获取更多的免费服务器 |
-| [Feed](https://www.wangdu.site/feed) | 文武科技柜 | https://www.wangdu.site | 编程; 软件; 随笔; 生活; 前端 | 2026/06/24 12:39:26 | 不会剪视频？OpenMontage让你一句话自动生成完整短视频 |
+| [Feed](https://www.wangdu.site/feed) | 文武科技柜 | https://www.wangdu.site | 编程; 软件; 随笔; 生活; 前端 | 2026/06/25 12:38:39 | 开发者效率翻倍工具：Cockpit Tools支持AI IDE多账号与多实例并行运行 |
 | [Feed](https://www.oct.cool/index.xml) | Oct.Cool | https://www.oct.cool | 编程; 前端; Flutter | 2025/07/17 00:00:00 | 使用AI开发一个应用最好的时间是现在 |
 | None | Mrsecond's blog | https://mrsecond.cn/ | C++; 深度学习; 笔记 | - | - |
 | [Feed](https://www.demochen.com/atom.xml) | 特立独行的异类 | https://www.demochen.com/ | 阅读与思考; 效率与工具; 生活与成长 | 2026/04/04 13:06:57 | 习惯了语音输入后，再也不想打字了 |
@@ -1113,7 +1113,7 @@
 | [Feed](https://www.happyfou.com/index.xml) | 元否的研究室 | https://www.happyfou.com/ | 教程; 认知; 分享 | x | x |
 | None | 秋雨 De Blog | https://www.fallrain.cn/ | 编程; 后端; 技术; 分享 | - | - |
 | [Feed](https://smj.im/rss.xml) | 方寸之间 | https://smj.im | Linux; 后端; 技术; 笔记 | 2023/08/20 01:20:07 | 修复 Arch Linux 的内核缺失问题 |
-| [Feed](https://liduos.com/atom.xml) | 莫尔索 | https://liduos.com/ | Python; SDN; 读书笔记; LLM应用开发 | 2026/06/14 08:00:00 | Vol.107 Claude Fable 5 引爆AI圈：最强模型降价，高端版本受限，能力分发迎来转折 |
+| [Feed](https://liduos.com/atom.xml) | 莫尔索 | https://liduos.com/ | Python; SDN; 读书笔记; LLM应用开发 | 2026/06/28 08:00:00 | Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查 |
 | [Feed](https://uuanqin.top/atom.xml) | 半方池水半方田 | https://uuanqin.top/ | 编程; 生活; 分享 | 2026/06/08 00:45:18 | 蓝色的结构色 |
 | [Feed](https://my.toho.red/index.xml) | 西行妖 | https://my.toho.red/ | 编程; 生活; 笔记; 随笔; 分享 | 2024/07/01 06:03:53 | T618冷门平板刷机从入门到理赔 |
 | [Feed](https://hallee.me/atom) | 哈尔的城堡 | https://hallee.me | 设计; 日常; 旅行; 开发 | 2023/04/21 18:05:00 | 设计系统避坑指南 |
@@ -1125,7 +1125,7 @@
 | [Feed](https://yanyuteng.netlify.app/atom.xml) | Yuteng's Blog | https://yanyuteng.github.io | 社会学; 人口学; 旅行; 随笔 | 2026/04/22 16:13:49 | Prose_统计暨编程问题日志 |
 | [Feed](http://halo.zfc.life/archives/5152aea5-c2e8-4717-8bba-2263d46e19d5) | 時間豆 | http://halo.zfc.life/ | 笔记; 生活; 随想 | x | x |
 | [Feed](https://blog.twelveeee.top/rss.xml) | 十二的编程笔记 | https://blog.twelveeee.top/ | 笔记; 技术; 生活 | 2026/02/11 14:00:00 | 26年新年前 vibe coding 感慨 |
-| [Feed](https://lihan3238.github.io/index.xml) | 李寒的小窝 | https://lihan3238.github.io/ | 学习; 编程; 生活; 思索 | 2026/06/04 10:43:00 | APlayer 歌词不显示？先把 LRC 时间戳规范化 |
+| [Feed](https://lihan3238.github.io/index.xml) | 李寒的小窝 | https://lihan3238.github.io/ | 学习; 编程; 生活; 思索 | 2026/06/28 06:32:55 | 京东云无线宝 AX6600 雅典娜刷 OpenWrt/LibWrt 记录 |
 | [Feed](https://blog.gaoran.xyz/rss/feed.xml) | Ryan' Lab | https://blog.gaoran.xyz/ | 产品; 评测; AIGC; 生活; 技巧 | x | x |
 | None | 余晟的博客 | https://www.lifesailor.me/ | 编程; 生活; 读书 | - | - |
 | None | BaofengのBlog | https://blog.bao-feng.top | 日常; 软件; 技术 | - | - |
@@ -1154,7 +1154,7 @@
 | [Feed](https://blog.xlonglong.cn/feed/) | Longlong's Blog | https://blog.xlonglong.cn/ | 生活日常; 随笔; 学习笔记; 炼丹; 开发 | 2026/03/02 13:25:48 | 由Sinusoidal位置编码到RoPE |
 | [Feed](https://ruterly.com/feed/) | Ruter's Blog | https://ruterly.com/ | 编程; 技术; 随笔; 开发; 分享 | x | x |
 | [Feed](http://xiaowuleyi/feed) | 小吴乐意’blog | https://www.xiaowuleyi.com/ | 生活随想; 商业思考 | x | x |
-| [Feed](https://garymeng.com/feed/) | Gary's Blog | https://garymeng.com/ | 编程; IT技术; 海外工作; AI Agent | x | x |
+| [Feed](https://garymeng.com/feed/) | Gary's Blog | https://garymeng.com/ | 编程; IT技术; 海外工作; AI Agent | 2025/05/29 05:57:02 | Migrate pip to uv |
 | [Feed](https://localfreedom.pages.dev/index.xml) | 局域自由 | https://localfreedom.pages.dev/ | 软件; 隐私; 笔记; 本地化 | 2026/06/20 23:11:28 | VirtualBox 设定和使用指南 |
 | [Feed](https://blog.sci.ci/rss2.xml) | Qifei's Blog | https://blog.sci.ci/ | 学习笔记; 机器学习; 前端; 算法; 开源 | 2024/03/25 09:49:27 | Python的模块构建和调用方式 |
 | [Feed](https://yuanj.top/index.xml) | 猫四叔 | https://yuanj.top/ | 学习; 生活; 生物信息学 | x | x |
@@ -1176,7 +1176,7 @@
 | [Feed](https://www.fghrsh.net/feed.php) | FGHRSH 的博客 | https://www.fghrsh.net | 生活; 日常; 科技; 数码; 编程; 技术 | 2025/10/01 10:57:17 | 小米 17 Pro Max 16+1T 开箱 |
 | [Feed](https://www.zla.pub/feed.xml) | ZLA 小站 | https://www.zla.pub/ | 生活; 日常; 科技; 数码; 编程; 技术; 随笔; 机器学习; 深度学习 | 2026/01/01 00:00:01 | 2025年度总结 |
 | None | 小橡树指北 | https://blog.growingoak.top/ | 读书笔记; Affiliate Marketing; Google SEO; 终身学习; WordPress 建站; 网站推荐 | - | - |
-| [Feed](https://anotherdayu.com/feed/) | Another Dayu | https://anotherdayu.com/ | 日常; 流行病与卫生统计; 科技; 数码 | 2026/06/24 21:10:22 | 我的背包 |
+| [Feed](https://anotherdayu.com/feed/) | Another Dayu | https://anotherdayu.com/ | 日常; 流行病与卫生统计; 科技; 数码 | 2026/06/25 18:29:44 | 2026年 激战2 常用网站和工具 #Guild wars 2 |
 | [Feed](https://blog.zhangyingwei.com/index.xml) | 胡说 | https://blog.zhangyingwei.com/ | 生活; 日常; 编程; 技术; 产品 | x | x |
 | [Feed](https://changshiban.com/index.xml) | 唱诗班 | https://changshiban.com/ | 生活方式; 哲学宗教; 历史人文; 财富幸福 | 2025/04/19 16:00:00 | 【推荐】音乐电影《村庄·音乐》：人类文明“地质学”的分层积累 |
 | [Feed](https://www.guangweiblog.com/feed/) | 王光卫博客 | https://www.guangweiblog.com/ | 数字营销; 数据分析 | 2026/04/28 09:08:24 | SEO是什么？2026年完整入门指南 |
@@ -1204,7 +1204,7 @@
 | [Feed](https://wygxmew.github.io/index.xml) | 乌云盖雪 | https://wygxmew.github.io | 生活; 日常; 思考; 感悟; 随笔; 文学; 诗歌; 笔记; 读书 | 2025/12/01 00:33:25 | CasaOS 开启网络共享自动发现功能 |
 | [Feed](https://xingpingcn.top/atom.xml) | 邢平cn-xingpingcn | https://xingpingcn.top | 编程; 技术; 社会科学; 随笔 | 2026/03/15 00:00:00 | 甲骨文密钥 ssh 连不上且忘记登录密码解决方法 |
 | [Feed](https://www.chaoniulian.com/rss/) | 骑行超过牛 | https://www.chaoniulian.com | 好玩的个人网志; 读书; 骑行; 效率翻倍 | 2026/05/31 00:05:30 | 5月30号 英文SEO实战派-西安SEO技术沙龙记录 |
-| [Feed](https://champhoon.xyz/atom.xml) | 澄沨的漫游茶记 | https://champhoon.xyz | ACG; 日常; 随笔; 技术 | 2026/06/21 02:46:51 | 在 KOReader 上显示直排文本 |
+| [Feed](https://champhoon.xyz/atom.xml) | 澄沨的漫游茶记 | https://champhoon.xyz | ACG; 日常; 随笔; 技术 | 2026/06/28 04:14:08 | 贺正·癸卯 |
 | [Feed](https://blog.gadore.top/feed.xml) | 千里之豪 | https://blog.gadore.top | 技术; 生活; 图片 | 2026/06/15 17:50:00 | SynoSync(时刻同步) 1.2.1：支持 MacOS (完全免费) + iOS 版本内购四折优惠！ |
 | [Feed](https://cniter.github.io/atom.xml) | Shaun's Space | https://cniter.github.io | 技术; 生活 | 2026/04/26 09:33:52 | Linux服务器运维文档 |
 | [Feed](https://blog.wexiami.com/feed) | 大熊要飞翔 | https://blog.wexiami.com | 生活; 成长; 技术 | x | x |
@@ -1215,7 +1215,7 @@
 | [Feed](https://zyzhang.com/feed/) | 张智勇 | https://zyzhang.com | 创业; 投资; 阅读 | 2026/01/12 06:37:00 | 炒作口诀 |
 | [Feed](https://howiehz.top/rss.xml) | 皓子的小站 | https://howiehz.top/ | 技术; 编程; 开源; 前端; 后端; 日常; 随笔; 生活; 杂谈; Python; 分享 | 2026/06/14 15:09:32 | Halo CMS 表单定义的隐藏规则 |
 | [Feed](https://zodream.cn/blog/rss) | ZoDream's Blog | https://zodream.cn/ | 编程; 开源; 全栈 | 2025/12/30 11:09:47 | angular 21 升级使用 signals 方案笔记 |
-| [Feed](https://www.dao.js.cn/feed.php) | 南蛮子懋和 | https://www.dao.js.cn | 李至臣; 李懋和; 南通道士; 风水; 家居风水; 住宅风水 | x | x |
+| [Feed](https://www.dao.js.cn/feed.php) | 南蛮子懋和 | https://www.dao.js.cn | 李至臣; 李懋和; 南通道士; 风水; 家居风水; 住宅风水 | 2026/06/14 18:52:42 | 完全丧智的崇洋媚外患者，没有批判公民阶级的基础 |
 | [Feed](https://bestcoder.cn/feed) | 顶尖研发的个人博客 | https://bestcoder.cn | 日常; 随笔; 技术 | 2026/06/22 03:41:56 | 技术进步和新租金 |
 | None | tcmiku的档案库 | https://tcmiku.github.io/ | 编程; 随笔; 教程; python | - | - |
 | None | LT-Space | http://www.lter.space/ | 编程; 随笔; 教程 | - | - |
@@ -1236,7 +1236,7 @@
 | [Feed](https://cosmo-polite.com/feed/) | Cosmos的博客 | https://cosmo-polite.com/ | 北美生活; 思维碎片 | 2026/06/07 20:42:28 | 三个月之后的更新——冒个泡泡 |
 | [Feed](https://blog.douchi.space/index.xml) | 椒盐豆豉 | https://blog.douchi.space/ | 测评; 生活; 旅行; 科技 | 2026/06/20 00:00:00 | [时空] Deception Pass |
 | [Feed](https://imzh.me/index.xml) | 在01之间到处找我 | https://imzh.me/ | 工具 | 2025/03/07 03:50:50 | What do you remember about me? |
-| [Feed](https://ramble.imzh.me/index.xml) | JZ's Rambles | https://ramble.imzh.me/ | 随笔 | 2026/06/14 10:18:41 | #1516 |
+| [Feed](https://ramble.imzh.me/index.xml) | JZ's Rambles | https://ramble.imzh.me/ | 随笔 | 2026/06/25 12:06:48 | #1517 |
 | [Feed](https://mafeifan.com/feed.rss) | mafeifan的技术博客 | https://mafeifan.com/ | Devops; 技术; 云原生 | x | x |
 | [Feed](https://wener.me/story/rss.xml) | Wener's Live & Life | https://wener.me/ | 生活; 技术; 编程; 文化; 杂谈; 架构; 设计; 笔记 | 2025/10/01 00:00:00 | 工具 - 工 与 具 |
 | [Feed](https://kneep.github.io/index.xml) | 尼普学种花 | https://kneep.github.io | 技术; 工作; 旅行; 随想 | x | x |
@@ -1250,11 +1250,11 @@
 | [Feed](https://luffy.cc/feed) | 蒙奇日记 | https://luffy.cc | 生活; 随笔 | 2025/05/24 16:00:00 | 越来越迷信 |
 | [Feed](https://data4fun.cc/index.xml) | data4fun | https://data4fun.cc/ | 个人随笔; 大数据; AI | 2026/05/28 03:33:02 | 模型 API 地址配置管理 |
 | [Feed](https://blog.reincarnatey.net/index.xml) | 失迹の博客 | https://blog.reincarnatey.net/ | 编程; 技术; 随笔; 笔记 | Sun, 15 Mar 2026 | 踩坑记录 \| Windows11 硬件服务异常、移动文件卡死、无法打开硬件管理器、系统信息不显示 cpu 和存储和 RAM 频率等问题 |
-| [Feed](https://kerrynotes.com/feed/) | Kerry的学习笔记 | https://kerrynotes.com/ | 软件; 技术; 分享 | 2026/06/22 15:34:47 | 我的 Claude 稳定使用经验 |
+| [Feed](https://kerrynotes.com/feed/) | Kerry的学习笔记 | https://kerrynotes.com/ | 软件; 技术; 分享 | 2026/06/28 13:03:52 | Claude 本轮封号潮好迷 |
 | [Feed](https://nsddd.top/zh/posts/index.xml) | smile 的博客花园 | https://nsddd.top/zh | 技术; 编程; AI; 创业; 生活; 思考; 笔记; 生产力工具; 开源 | x | x |
-| [Feed](https://blog.yasking.org/atom.xml) | 东东's Blog | https://blog.yasking.org/ | 编程; 技术; 笔记 | 2026/06/20 13:28:07 | 云南系列｜Day 4 剑川古城记录 |
+| [Feed](https://blog.yasking.org/atom.xml) | 东东's Blog | https://blog.yasking.org/ | 编程; 技术; 笔记 | 2026/06/28 09:48:53 | 云南系列｜Day 5、6 在沙溪古镇的两天 |
 | [Feed](https://thinking-reed.cn/atom.xml) | 有思想的芦苇's Blog | https://thinking-reed.cn | 技术; 科研; AI; 生活; 思考; 编程 | x | x |
-| [Feed](https://www.ruanchaomin.com/api/rss) | 阮超民的个人网站 | https://www.ruanchaomin.com/ | 前端; 编程; 技术; 笔记 | 2026/06/24 08:28:46 | Chrome DevTools 奇技淫巧 |
+| [Feed](https://www.ruanchaomin.com/api/rss) | 阮超民的个人网站 | https://www.ruanchaomin.com/ | 前端; 编程; 技术; 笔记 | - | - |
 | [Feed](https://www.zair.top/index.xml) | 逐水寻源 | https://www.zair.top/ | AI; 大模型; 数据科学; 机器学习; 学习笔记 | 2025/11/28 14:00:22 | RL 后训练进化论：从PPO被动奖励、GRPO组内奖励到DeepSeekMath-V2自验证奖励 |
 | [Feed](https://razeen.me/index.xml) | Razeen's Blog | https://razeen.me | 编程; 生活; 笔记 | 2025/11/26 22:50:16 | Let's Encrypt 推出 Gen Y 根证书架构：揭示 Web PKI 的五大未来趋势 |
 | [Feed](https://www.qs5.org/feed/) | 青石坞 | https://www.qs5.org/ | 技术; 生活 | 2026/05/24 04:39:00 | 花费近万元，跑了8500km，我租车一年后的真实感受 |
@@ -1263,29 +1263,29 @@
 | [Feed](https://www.ichenfu.com/atom.xml) | C0reFast记事本 | https://www.ichenfu.com/ | 技术; 编程; Linux | 2025/12/30 09:42:44 | 一个virtio-blk设备IO大小的问题 |
 | [Feed](https://isming.me/index.xml) | 码农明明桑 | https://isming.me | 技术; 生活; 旅行; 读书 | 2026/05/30 13:35:19 | #18 枇杷又熟了的五月月报 |
 | None | 七仔的博客 | https://www.baby7blog.com | 编程; 随笔; 工具; 个人 | - | - |
-| [Feed](https://deeprouter.org/rss/feed.xml) | Deeprouter | https://deeprouter.org | 路由器; 家庭网络; 工具; OpenWRT; 分享 | 2026/06/24 00:00:00 | 解决Codex Desktop高频TRACE日志写入logs_2.sqlite问题 |
+| [Feed](https://deeprouter.org/rss/feed.xml) | Deeprouter | https://deeprouter.org | 路由器; 家庭网络; 工具; OpenWRT; 分享 | 2024/12/30 00:00:00 | 使用Pipedream同步RSS至Twitter(X.com) |
 | [Feed](https://jame.work/feed.xml ) | Jame | https://jame.work/ | 随笔 | x | x |
 | [Feed](https://inote.xyz/zh/rss.xml) | iNote | https://inote.xyz/zh/ | 投资; 创业; 生活 | x | x |
 | None | HotaruBlog | https://hotaru.icu | 编程; 开源; 技术; 笔记; 记录; 生活; 分享; 个人 | - | - |
 | None | 奥利弗的狗窝 | https://www.aolifu.org/ | 实用工具; Java八股文; 技术分享 | - | - |
 | [Feed](https://blog.lifebus.top/feed.xml) | 人生足迹 · 博客平台 | https://blog.lifebus.top | 教程; 软件; 技术; 随笔 | 2024/12/13 04:38:00 | 沧元图 |
 | [Feed](https://www.moranfong.com/feed/) | 白丁轶事 | https://www.moranfong.com | 随笔; 生活; 教程 | 2026/05/10 09:11:54 | rednote (Xiaohongshu) Guide for Beginners |
-| [Feed](https://www.coderli.com/feed.xml) | OneCoder的博客 | https://www.coderli.com | 编程; 教程; 技术; 随笔 | 2026/06/24 14:09:34 | 【NOIP】2001真题解析 luogu-P1029 最大公约数和最小公倍数问题 |
+| [Feed](https://www.coderli.com/feed.xml) | OneCoder的博客 | https://www.coderli.com | 编程; 教程; 技术; 随笔 | 2026/06/26 14:40:28 | 【NOIP】2000真题解析 luogu-P1023 税收与补贴问题（适合GESP四、五级以上练习） |
 | [Feed](https://physnya.top/atom.xml) | 菲兹克斯喵 | https://physnya.top | 物理; 数学; 随笔 | 2026/06/17 21:37:20 | 简单深空摄影图像处理入门 |
-| [Feed](https://xeonzilla.top/index.xml) | Xeonzilla's Note | https://xeonzilla.top | 二次元; 技术; 随笔 | x | x |
+| [Feed](https://xeonzilla.top/index.xml) | Xeonzilla's Note | https://xeonzilla.top | 二次元; 技术; 随笔 | 2026/06/24 16:00:00 | 建站小结3.0 |
 | [Feed](https://blog.kdev.top/atom.xml) | Kang's Blog | https://blog.kdev.top/ | 编程; Linux; 科研学习 | 2025/05/05 06:31:52 | Ubuntu包管理 |
 | [Feed](https://blog.jaspirit.cc/atom.xml) | JaSpirit 的万事屋 | https://blog.jaspirit.cc/ | 算法; 计算机科学; 神经科学; 化学; 技术; 教程; 随笔 | 2024/09/25 16:00:00 | 通过nginx日志分析网站流量 |
 | [Feed](https://www.seaeye.cn/feed/) | 深海之眼 | https://www.seaeye.cn/ | 区块链; CTF | 2025/01/14 03:00:00 | SUCTF 2025 Blockchain Writeup |
-| [Feed](https://www.hats-land.com/atom.xml) | 帽之岛 - Hat's Land | https://www.hats-land.com | 随笔; 思考; 笔记 | x | x |
+| [Feed](https://www.hats-land.com/atom.xml) | 帽之岛 - Hat's Land | https://www.hats-land.com | 随笔; 思考; 笔记 | 2026/06/13 19:37:37 | 开源工具 Open Design 正在偷偷泄露你的隐私 |
 | [Feed](https://niracler.com/rss.xml) | Niracler's Blog | https://niracler.com | 生活; 编程; 工具; 随笔 | 2026/05/07 00:00:00 | 从「影响圈」和「关注圈」的视角看待 AI 时代的软件工程师岗位 |
 | [Feed](https://blog.luijp.cn/rss.xml) | 拒绝内耗直接发疯 | https://blog.luijp.cn | 生活 | x | x |
 | [Feed](https://blog.gentlelucky.com/zh/index.xml) | gentlelucky | https://blog.gentlelucky.com | 随笔; 思考; Java; 知识管理 | 2026/05/19 04:15:00 | 周报 Vol.34 - 琐碎半年 |
 | [Feed](https://dreams.plus/rss.xml) | 但为君故 | https://dreams.plus | 生活; 随笔; 编程; 笔记 | x | x |
 | [Feed](https://ycyin.eu.org/sitemap.xml) | 小松鼠的博客 | https://ycyin.eu.org | 编程; 避坑; 技术 | x | x |
-| [Feed](https://taxodium.ink/rss.xml) | Taxodium | https://taxodium.ink/ | 编程; 随笔 | 2026/06/20 12:50:00 | Elfeed 4.0.0 使用分享 |
+| [Feed](https://taxodium.ink/rss.xml) | Taxodium | https://taxodium.ink/ | 编程; 随笔 | 2026/06/26 12:00:00 | Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？ |
 | [Feed](https://bducds.com/feed) | 酷酷的白 | https://bducds.com | 技术; 生活; 编程 | 2026/05/05 09:33:03 | 拍到了南湖的花花 |
 | [Feed](https://blog.mmf.moe/rss.xml) | Yesterday17's Blog | https://blog.mmf.moe/ | 编程; 技术; 二次元; 随笔 | 2026/02/16 10:33:17 | 2026 新年解密红包 / Melody Flag |
-| [Feed](https://www.wsh233.cn/feed.xml) | WSH | https://wsh233.cn | 生活; 随笔; GISer; 地信 | 2026/06/24 15:41:00 | 观天龙八部2-王语嫣与AI |
+| [Feed](https://www.wsh233.cn/feed.xml) | WSH | https://wsh233.cn | 生活; 随笔; GISer; 地信 | 2026/06/27 17:31:24 | AI见闻之政策 |
 | [Feed](https://heggria.site/feed.xml) | Heggria | https://heggria.site/ | 技术; 生活; 编程; 前端 | x | x |
 | [Feed](https://blog.sehnsucht.top/rss.xml) | Sehnsucht | https://blog.sehnsucht.top/ | 技术; 生活; 随笔; 读书; 杂谈; 娱乐; 思考 | 2025/09/20 00:00:00 | 观《花束般的恋爱》 |
 | [Feed](https://www.imrising.cn/sitemap.xml) | RisingIce | https://www.imrising.cn/ | 技术; 生活; 随笔; AIGC | x | x |
@@ -1303,7 +1303,7 @@
 | [Feed](https://blog.deepchirp.com/atom.xml) | 空鸣深语 | https://blog.deepchirp.com | 技术; 生活; 随笔 | 2026/05/27 11:31:20 | 《Arcaea》双星纪念 |
 | [Feed](https://www.geekery.cn/rss.xml) | 运维开发绿皮书 | https://www.geekery.cn/ | 技术; 生活; 开源 | 2026/06/10 16:53:39 | OBS虚拟摄像头重命名 |
 | [Feed](https://mangoman.us.kg/?feed=rss2) | 芒果勿语 | https://mangoman.us.kg/ | 随笔; 分享; 搞事情 | x | x |
-| [Feed](https://ruufly.github.io/atom.xml) | distjr_'s blog | https://ruufly.github.io/ | 技术; 随笔; 音乐; 二次元 | 2026/06/23 05:50:10 | 最新 \| KeepOpen：一款保持移动硬盘开启状态的小工具 |
+| [Feed](https://ruufly.github.io/atom.xml) | distjr_'s blog | https://ruufly.github.io/ | 技术; 随笔; 音乐; 二次元 | 2026/06/28 06:14:29 | 上伊那牡丹，看完了 |
 | [Feed](https://moonstone.fun/feed/) | 月石MoonStone | https://moonstone.fun | 中国古建筑; 唐宋辽金古建筑; 中国木结构建筑; 古建筑知识; 营造法式; 斗栱; 大木作; 3D模型 | 2025/10/27 14:58:01 | 大木作-柱-侧脚、生起 |
 | [Feed](https://blog.thedoga.tech/feed) | 栖木的网络日志 | https://blog.thedoga.tech/ | 随笔; 生活; 杂七杂八 | 2025/02/05 00:00:00 | 迁移网站到nextjs了 |
 | [Feed](https://blog.418121.xyz/rss2.xml) | 叶泯希 | https://blog.418121.xyz/ | 生活; 摄影; 教程 | 2026/06/19 18:00:03 | 每天都是绝版呢———记博客二周年 |
@@ -1318,40 +1318,40 @@
 | [Feed](https://www.yuqiqin.me/feed.xml) | 通灵卡片 | https://www.yuqiqin.me/ | 教研; 语言学习; 生活; 旅游 | 2026/05/03 01:47:04 | 通灵卡片Psychic Paper |
 | [Feed](https://forcheetah.github.io/atom.xml) | 暮冬Z羡慕的博客 | https://forcheetah.github.io/ | AI编译; 计算加速 | 2026/06/20 17:06:28 | 【Triton】Triton实现矩阵乘 |
 | [Feed](http://bolaxious.fun/rss.xml) | Bolaxious 的小站 | http://bolaxious.fun/ | 前端，生活，技术，随笔 | x | x |
-| [Feed](https://kangaroogao.com/atom.xml) | Maohang Gao's Blog | https://kangaroogao.com/ | 游记; 读书笔记; 随笔 | x | x |
+| [Feed](https://kangaroogao.com/atom.xml) | Maohang Gao's Blog | https://kangaroogao.com/ | 游记; 读书笔记; 随笔 | 2026/06/22 16:17:29 | 回家路上3：永州、柳州、来宾、贵港、玉林 |
 | [Feed](https://blog.mountaye.com/feed.xml) | 阿掖山·博客 | https://blog.mountaye.com | 物理; 生物; 编程; 摄影; 历史 | 2026/06/14 00:00:00 | .bio \| 分子生物学中的几种“子” |
-| [Feed](https://blog.waistu.com/rss.xml) | 二歪同学 | https://blog.waistu.com | 数码; 科技; 生活; 教程 | 2026/02/28 10:44:48 | Twikoo丨 邮件模板美化制作教程 |
+| [Feed](https://blog.waistu.com/rss.xml) | 二歪同学 | https://blog.waistu.com | 数码; 科技; 生活; 教程 | x | x |
 | [Feed](https://cxy0714.github.io/index.xml) | 陈星宇的主页 | https://cxy0714.github.io/ | 统计学; 随笔 | 2026/05/14 00:00:00 | 比较文明经济学：机器人文明 |
 | [Feed](https://blog.liushen.fun/atom.xml) | 清羽飞扬 | https://blog.liushen.fun | 技术; 生活; 随笔; 记录 | 2026/06/14 17:00:00 | vibe-coding个人实践 |
 | [Feed](https://peter267.github.io/atom.xml) | Peter267 | https://peter267.github.io | 生活; 技术; 教程; AIGC | 2026/06/06 17:01:16 | 近况（Ⅱ） |
 | [Feed](https://blog.huan99.com/atom.xml) | Huan's Blog | https://blog.huan99.com | 自我成长; 后端; 阅读; 随笔 | 2025/10/17 03:58:10 | 自我叙事 |
 | [Feed](https://blog.cugxuan.cn/atom.xml) | 泫言 | https://blog.cugxuan.cn | 生活; 编程; 科技; 记录 | 2026/03/10 12:26:46 | 泫的 2025 年终总结 |
 | [Feed](https://blog.frwalker.top/atom.xml) | FrWalker's Blog | https://blog.frwalker.top | 学习; 随笔; 研究; 记录 | 2025/05/22 07:20:49 | 通用印刷电路板全自动布线算法 |
-| [Feed](https://blog.sunmkt.uk/feed.xml) | Sunset 的重构博客 | https://blog.sunmkt.uk/ | 编程; 开源; 生活; 随笔 | 2026/06/14 00:00:00 | 置身钉内 |
+| [Feed](https://blog.sunmkt.uk/feed.xml) | Sunset 的重构博客 | https://blog.sunmkt.uk/ | 编程; 开源; 生活; 随笔 | 2026/06/25 00:00:00 | 《鸣潮》的《星炬不熄（毕业合唱 Ver.）》歌曲 |
 | [Feed](https://flowable.me/blog/atom.xml) | Flowable中文博客 | https://flowable.me/blog/ | 编程; 技术分享; 教程; Flowable | 2025/06/24 06:00:00 | Flowable 开发环境搭建指南 |
 | [Feed](https://www.cvzoo.cn/atom.xml) | 顺毛师之家 | https://www.cvzoo.cn/ | 编程; 科研; 随笔 | 2025/08/23 08:16:19 | 我要这差分放大电路有何用？ |
 | [Feed](https://blog.yesord.top/atom.xml) | Rolenx | https://home.yesord.top/ | 生活; 思考; 记录 | x | x |
 | [Feed](https://writings.sh/feed) | 春水煎茶 | https://writings.sh/ | 编程; 算法; 记录 | x | x |
-| [Feed](https://kekkj123.github.io/RSS_atom.xml) | KEKKJ BLOG | https://kekkj123.github.io/ | 生活; 随笔; 技术; 学习 | 2026/06/07 20:36:00 | 恐惧 |
+| [Feed](https://kekkj123.github.io/RSS_atom.xml) | KEKKJ BLOG | https://kekkj123.github.io/ | 生活; 随笔; 技术; 学习 | 2026/06/16 16:10:00 | TIANTIAN - P22 |
 | None | Suni Blog | https://www.yysuni.com/ | 技术; 笔记; 有趣项目 | - | - |
 | [Feed](https://blog.s22y.moe/rss.xml) | s22y | https://blog.s22y.moe/ | 前端; 编程; 技术 | x | x |
 | [Feed](https://xuexc.cn/api/articles/rss) | 疯子的天空 | https://xuexc.cn/ | 编程; 记录 | x | x |
 | [Feed](https://fylsen.com/rss.xml) | 别年 | https://fylsen.com/ | 生活; 随笔; 记录 | 2026/04/17 00:00:00 | 基于 Cloudflare Workers 部署博客 AI 摘要服务 |
 | [Feed](https://blog.millya.top/feed) | 冰屋 | https://blog.millya.top | 编程; 技术; 随笔 | 2025/05/14 03:25:44 | 在TeamSpeak内搭建网易云音乐bot |
 | [Feed](https://www.vvhan.com/rss.xml) | 韩小韩博客 | https://www.vvhan.com/ | 编程; 随笔; 分享; 生活; 前端; 后端; 开源; 经验 | 2026/04/11 18:18:49 | 🦞 VH-Claw：便携式 OpenClaw 管理工具，零配置开箱即用 |
-| [Feed](https://jiangcl.com/feed) | 蒙需 | https://jiangcl.com/ | 法律; 生活; 编程; 工程 | x | x |
+| [Feed](https://jiangcl.com/feed) | 蒙需 | https://jiangcl.com/ | 法律; 生活; 编程; 工程 | 2026/06/29 07:02:15 | 最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（二） |
 | [Feed](https://zaunist.com/rss/feed.xml) | 阿杰鲁的自留地 | https://zaunist.com/ | 技术; 随笔; 记录; 经验; 生活 | x | x |
 | [Feed](https://runzhliu.cn/index.xml) | runzhliu的容器笔记 | https://runzhliu.cn/ | 编程; 记录 | 2026/03/21 00:00:00 | openclaw-weixin插件深度分析报告 |
 | [Feed](https://fallzhang.top/sitemap.xml) | Fall's Blog | https://fallzhang.top/ | 前端; 跨端; 全栈 | x | x |
 | [Feed](https://www.yolo.blue/blog/rss.xml) | YOLO | https://www.yolo.blue/ | 编程; 随笔; 游戏; 生活; 旅行 | 2026/02/19 00:00:00 | 不同年龄的人对于 UI 设计的理解 |
-| [Feed](https://www.ccgxk.com/rss.php) | 独元殇 | https://www.ccgxk.com | 生活; 编程; 科技; 记录 | 2026/06/24 17:17:39 | 出海 Web 之  Vercel 的必踩坑和 140 分钟需求调研 |
+| [Feed](https://www.ccgxk.com/rss.php) | 独元殇 | https://www.ccgxk.com | 生活; 编程; 科技; 记录 | 2026/06/28 17:16:08 | DeepSeek 发布氮气加速器 DSpark！可惜好东西又开源了 |
 | [Feed](https://www.hfwas.tech/sitemap.xml) | HFwas | https://www.hfwas.tech | 生活; 编程; 随笔 | x | x |
 | [Feed](https://ucds.me/feed) | DaBai | https://ucds.me | 技术; 生活; 编程 | 2026/06/08 11:11:41 | codex 本月的免费额度用完了 |
 | None | Golden Territory金色疆域 | https://dogeas.club | 编程; 笔记; 生活; 游戏; 兴趣使然 | - | - |
 | [Feed](https://www.zheep.top/atom.xml) | 云端的解构者 | https://www.zheep.top | code; 生活; 阅读; 游戏 | 2025/12/06 16:54:57 | 记录：傻逼win11美化插件导致资源管理器崩溃 |
-| [Feed](https://blog.goodboyboy.top/atom.xml) | GoodBoyboy 's Blog | https://blog.goodboyboy.top | 编程; 生活; 随笔 | 2026/06/18 13:04:44 | Ubuntu 26.04 Btrfs+LUKS2安装 |
-| [Feed](https://pengs.top/atom.xml) | Peng's Blog | https://pengs.top/ | 编程; 技术; linux; 生活; 开源; 摄影 | 2026/05/08 03:23:44 | 读《Uno：数据中心间和数据中心内拥塞控制与可靠连接的一站式解决方案》 |
-| [Feed](https://www.glowisle.me/atom.xml) | 映屿 | https://www.glowisle.me | 技术; 随笔; 思考; 阅读 | 2026/06/01 01:51:37 | 不否定技术的进步，也不盲目跟风 |
+| [Feed](https://blog.goodboyboy.top/atom.xml) | GoodBoyboy 's Blog | https://blog.goodboyboy.top | 编程; 生活; 随笔 | 2026/06/28 12:18:55 | 记忆里的屋子（一） |
+| [Feed](https://pengs.top/atom.xml) | Peng's Blog | https://pengs.top/ | 编程; 技术; linux; 生活; 开源; 摄影 | 2026/06/28 08:34:13 | Vibe paper不负责指北 |
+| [Feed](https://www.glowisle.me/atom.xml) | 映屿 | https://www.glowisle.me | 技术; 随笔; 思考; 阅读 | 2026/06/28 15:00:00 | 堵不如疏，禁不如教 |
 | [Feed](https://dailyminz.org/atom.xml) | DailyMinz | https://dailyminz.org | 人文社科; 思考; 随笔; 阅读; 哲学 | x | x |
 | [Feed](https://watermelonabc.top/atom.xml) | Watermelonabc的Blog | https://watermelonabc.top | 编程; 技术; 笔记; 生活 | 2026/06/22 07:12:14 | 福州大学单片机原理与应用（跨学科）复习 |
 | [Feed](https://unixetc.com/index.xml) | unixetc | https://unixetc.com/ | 编程; 技术; linux; 生活; 开源 | 2026/05/20 14:38:44 | 红米C8809安装OpenWRT |
@@ -1364,26 +1364,26 @@
 | [Feed](https://www.haomwei.com/atom.xml) | 屠·城 | https://www.haomwei.com/ | 生活; 随笔; 记录; 音乐 | 2026/02/19 16:00:00 | 年更II |
 | None | 行书指南 | https://xszn.org/ | 软件; 教程; 分享 | - | - |
 | [Feed](https://www.xchere.xyz/atom.xml) | 叉息的空中咖啡馆 | https://www.xchere.xyz/ | 生活; 随笔; 记录; 读书笔记; 乱七八糟 | 2026/06/13 05:24:33 | 博客头像自动同步qq头像 |
-| [Feed](https://mingnify.com/zh/blog/atom.xml) | 明立非(Mingnify)的博客 | https://mingnify.com/zh/blog/ | Indie Maker; 独立开发; AI; 打造产品; 内容创作; 数字游民 | 2026/06/19 04:14:42 | Codex APP 入门到实战：用 AI 日报项目跑通 Agent 工作流 |
+| [Feed](https://mingnify.com/zh/blog/atom.xml) | 明立非(Mingnify)的博客 | https://mingnify.com/zh/blog/ | Indie Maker; 独立开发; AI; 打造产品; 内容创作; 数字游民 | 2026/06/27 14:31:42 | Obsidian 轻松上手指南：本地 Markdown、双链、附件、关系图谱、插件和快捷入口【附入门启动包】 |
 | None | TansBlog | https://tans.fun | 技术; 硬件DIY; 感想; 编程; 成长经历 | - | - |
 | [Feed](https://kevintan.pro/sitemap.xml) | Kevin's Blog | https://kevintan.pro/ | 技术; 逆向; 大学; 生活; 记录 | x | x |
 | [Feed](https://lamber-maybe.com/blog/index.xml) | Lamber的博客 | https://lamber-maybe.com/ | 技术; 网络安全; 成长; 记录; BugBounty | 2025/11/05 00:00:00 | 渐进学习 |
 | [Feed](https://jiashejianyan.com/sitemap.xml) | 假设检验 | https://jiashejianyan.com | 生活; 品牌; 投资; 记录 | x | x |
-| [Feed](https://www.iconpik.com/rss/) | 王圆圆 | https://www.iconpik.com | AI; 编程; 随笔 | 2026/06/24 09:47:35 | 愤怒是我的盔甲 |
+| [Feed](https://www.iconpik.com/rss/) | 王圆圆 | https://www.iconpik.com | AI; 编程; 随笔 | 2026/06/27 03:45:50 | 向下歧视 |
 | [Feed](https://blog.beltfish.cn/feed/) | 带鱼Blog | https://blog.beltfish.cn/ | 生活; 日常; 审计; 财务; 数码 | 2025/12/18 03:07:00 | AI 会取代审计师吗？拥抱审计的“数智化”革命 |
-| [Feed](https://afipo.top/rss.xml) | 涵哲子居 | https://afipo.top/ | 日常; 随笔; 乱七八糟 | 2026/06/05 00:00:00 | 我对开源软件与自由软件的看法 |
+| [Feed](https://afipo.top/rss.xml) | 涵哲子居 | https://afipo.top/ | 日常; 随笔; 乱七八糟 | 2026/06/26 00:00:00 | 初中最后的地生 |
 | [Feed](https://supergrey.bearblog.dev/rss/) | SuperGrey的笔记本 | https://supergrey.bearblog.dev/ | 阅读随笔; 动漫影评 | 2026/05/24 22:15:00 | 與不快樂和解 |
-| [Feed](https://xingwangzhe.fun/rss.xml) | 姓王者的博客 | https://xingwangzhe.fun/ | 编程，随笔，大学，生活，开源 | 2026/06/24 08:00:00 | 人工智能实训Day3：Agent智能体实践——工具调用与多技能协作 |
+| [Feed](https://xingwangzhe.fun/rss.xml) | 姓王者的博客 | https://xingwangzhe.fun/ | 编程，随笔，大学，生活，开源 | 2026/06/28 07:17:00 | d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力 |
 | [Feed](https://bookvision7.com/feed.xml) | 书远见 | https://bookvision7.com/ | 编程，技术，生活，思考 | 2025/10/31 06:13:04 | 和同学讨论读书 |
 | [Feed](https://Ashlord.com/feed.xml) | solaireh3 | https://Ashlord.com | 医学，生活，随笔，原创 | 2025/11/14 04:12:30 | 申请e3扩容5T存储，出现Error trying to get OneDrive settings的过来看看，教你解决 |
 | [Feed](https://www.sumi233.top/rss.xml) | 酥米的小站 | https://www.sumi233.top | 生活，技术，网络，日常，随笔 | 2026/05/12 12:00:00 | 酥米的碎碎念（13），最近的一些事 |
 | [Feed](https://xieyi.org/rss.xml) | 謝懿Shine©的AI博客 | https://xieyi.org | 技术开源; 大模型; AI; 生活; 随笔; 笔记 | 2026/05/22 00:00:00 | 从圆肩到挺拔：我的训练计划 V2｜肩胛稳定优先 |
 | [Feed](https://www.yt-blog.top/atom.xml) | Fgaoxing的博客 | https://www.yt-blog.top/ | 技术; 开源; 随笔; 笔记 | 2026/04/12 04:40:05 | 放开想，越离谱越好 |
-| [Feed](https://fuwari.oh1.top/rss.xml) | yCENzh's Blog | https://fuwari.oh1.top/ | 技术; 随笔; 笔记; 乱七八糟 | 2026/06/21 00:00:00 | PictureAPI |
+| [Feed](https://fuwari.oh1.top/rss.xml) | yCENzh's Blog | https://fuwari.oh1.top/ | 技术; 随笔; 笔记; 乱七八糟 | 2026/06/26 00:00:00 | Claude Code 保姆级入门:安装,配置,第三方 Provider 与 Termux 兼容方案 |
 | [Feed](https://www.krjojo.com/feed) | 手里有只毛毛虫 | https://www.krjojo.com/ | 技术; 开源; 随笔; 生活 | x | x |
 | [Feed](https://changchen.me/atom.xml) | Henry Z's blog | https://changchen.me/ | 技术; Python; SRE; 生活 | 2026/06/07 07:06:31 | 读 Python behind the scenes #2: how the CPython compiler works |
 | [Feed](https://fenglielie.top/atom.xml) | fenglielie | https://fenglielie.top/ | 编程; 技术; 笔记 | x | x |
-| [Feed](https://zelikk.blogspot.com/rss.xml) | ICDYCT我能你也行 | https://zelikk.blogspot.com/ | 编程; 随想; DIY | 2026/06/24 02:44:38 | Oracle ARM VPS 编译 forkgram/tdesktop 用aqtinstall安装Qt |
+| [Feed](https://zelikk.blogspot.com/rss.xml) | ICDYCT我能你也行 | https://zelikk.blogspot.com/ | 编程; 随想; DIY | 2026/06/28 07:27:20 | 修改 telegram 弹出emoji窗口的大小 by Herems 对接 mimo-v2.5-pro |
 | [Feed](https://www.naiwenel.com/rss.xml) | 小涵Naiwenel | https://www.naiwenel.com/ | 编程; 日常; 独立游戏; 独立开发; 开源; 学习; 二次元 | 2025/11/24 04:00:00 | 第一篇文章 |
 | [Feed](https://blog.52013120.xyz/rss.xml ) | 繁星点点 | https://blog.52013120.xyz/ | 编程; 技术; 原创; 网络; 教程 | 2026/05/17 16:43:30 | 最新轻量级龙虾部署教程 |
 | [Feed](https://www.paddysun.top/feed) | Under the Sun with Paddy | https://www.paddysun.top/ | 算法; 生活; 工作; 情感; 随笔 | 2025/12/12 18:08:12 | 我怀疑我吃错了东西 |
@@ -1396,12 +1396,12 @@
 | [Feed](https://haydenbi.com/feed.xml) | HaydenBi | https://haydenbi.com | 编程; 出海; 生活; 分享; 工作 | 2026/03/11 00:00:00 | 2026 Mercury (水星银行) 开户完整教程 |
 | [Feed](https://blog.elykia.cn/atom.xml) | 致以无瑕之人 | https://blog.elykia.cn | 编程; 技术; 生活 | 2026/04/25 15:43:09 | Windows 11 运行 .vbs 报错：没有文件扩展“.vbs”的脚本引擎 |
 | [Feed](https://blog.lyujp.com/sitemap.xml) | 闪电的自留地 | https://blog.lyujp.com | 生活; 分享 | x | x |
-| [Feed](https://cheng.st/atom.xml) | S T C H E N G | https://cheng.st | 随笔; 旅行; 摄影; 运动; 技术 | 2026/04/03 00:00:00 | Snowboarding in Xinjiang - China Snow Trip \| 滑雪的尽头 竟然真的是骨科 |
-| [Feed](https://luenci.com/en/index.xml) | Luenci的技术博客 | https://luenci.com | 编程; 技术; 随笔; 笔记 | 2026/04/17 00:00:00 | Agent Skill 指南 |
+| [Feed](https://cheng.st/atom.xml) | S T C H E N G | https://cheng.st | 随笔; 旅行; 摄影; 运动; 技术 | 2026/06/23 00:00:00 | Movie Night in New York \| 纽约夜场电影 |
+| [Feed](https://luenci.com/en/index.xml) | Luenci的技术博客 | https://luenci.com | 编程; 技术; 随笔; 笔记 | 2026/06/26 00:00:00 | 写作的意义 |
 | [Feed](https://giserlab.cn/feed.xml) | GISerLab 地理空间 | https://giserlab.cn | GIS; 技术; 地信; 地图; 工具; 决解方案; Cesium | 2026/03/13 00:00:00 | 地图集 |
 | [Feed](https://rokcso.com/index.xml) | Rokcso's Blog | https://rokcso.com | 生活; 技术; 好奇心; 产品管理; 编程; AI; 独立开发 | 2026/05/25 02:00:00 | 当每个新发布都像另一个 AI Agent，怎样才能真正脱颖而出 |
 | [Feed](https://whyya.xyz/rss.xml) | 小陶持续精进 | https://whyya.xyz | 生活; 生产力工具; 效率; 知识管理 | 2026/06/08 17:40:06 | 我的日记：记录、分析、画像与种子 |
-| [Feed](https://uwillno.com/rss.xml) | UWillno's Blog | https://uwillno.com | Qt; WASM; 技术; 记录 | 2026/06/11 03:14:44 | Markdown Latex 支持开发记录及测试 |
+| [Feed](https://uwillno.com/rss.xml) | UWillno's Blog | https://uwillno.com | Qt; WASM; 技术; 记录 | 2026/06/27 07:44:44 | 博客系统更新至4.4 |
 | [Feed](https://ventuss.xyz/rss/zh.xml) | ventuss | https://ventuss.xyz | 思考; 写作 | 2025/12/20 00:00:00 | AI 是我未出生的兄弟 |
 | [Feed](https://www.oxue.de/rss.xml) | 傲雪の | https://www.oxue.de | 技术; 写作; 生活; 随笔 | 2026/06/06 00:00:00 | 正确使用 Cloudflare SaaS |
 | [Feed](https://blog.algieba12.cn/atom.xml) | 阿尔的代码屋 | https://blog.algieba12.cn/ | 随笔; AI; 游戏开发; C++; Python; 编程 | 2026/06/22 06:43:39 | typing_extensions 有用(四)：使用 TypeIs 替代危险的 cast，做最严谨的类型收窄 \| 阿尔的代码屋 |
@@ -1411,20 +1411,20 @@
 | [Feed](https://jaketao.com/feed/) | Jake Blog | https://jaketao.com/blog | 硅谷科技; 主机游戏; 留学旅居; 跨境电商 | 2026/06/24 21:17:03 | 对，我终于全职创业了！和大家正式介绍下我们的Syrovex |
 | None | Yibo's Blog | https://boboxy.github.io/ | 科研; 随笔; 技术; 艺术 | - | - |
 | [Feed](https://blog.abb00717.com/index.xml) | ABB00717's Blog | https://blog.abb00717.com/ | 資訊安全; 程式設計; 技術; 寫作; 音樂 | 2026/06/24 00:00:00 | 清除 git history 中的機敏資料 |
-| [Feed](https://blog.giveanornot.com/index.xml) | 資工小廢物 - JN | https://blog.giveanornot.com/ | 來自台灣; 生活反思; 社群媒體負面影響; 開源軟體 | 2026/06/22 08:12:30 | 聽了會開心的歌 |
+| [Feed](https://blog.giveanornot.com/index.xml) | 資工小廢物 - JN | https://blog.giveanornot.com/ | 來自台灣; 生活反思; 社群媒體負面影響; 開源軟體 | 2026/06/25 04:52:00 | 一點點 |
 | None | 技术人的一亩田 | https://jeremysong.cn | 编程; AI; 全栈; 读书; 生活; 笔记 | - | - |
 | [Feed](https://liu-guo.com/feed.xml) | 刘果的小站 | https://liu-guo.com/ | 文字、音乐与交互实验 | x | x |
-| [Feed](https://fivsevn.com/rss) | 五月七日的思考札记 | https://fivsevn.com/ | 个人数字花园 | 2026/06/24 20:06:16 | 25 Jun, 2026 05:05 |
+| [Feed](https://fivsevn.com/rss) | 五月七日的思考札记 | https://fivsevn.com/ | 个人数字花园 | 2026/06/27 22:09:31 | June 28, 2026 |
 | [Feed](https://maki49.github.io/feed.xml) | 49th LunaSea | https://maki49.github.io/ | 动漫游戏; 生活随笔; 科研; 编程 | 2026/06/12 16:00:00 | ThinkBook改造工作站+数据搬迁记录 |
 | None | Firenze42 | https://firenze42.com/zh | SEO; 产品; 增长; AI; 随笔 | - | - |
 | None | Wenix's Blog | https://wenix.dev/ | 编程; 网文; 动漫; 游戏; 生活 | - | - |
 | [Feed](https://ducorn.com/feed.xml) | 讀角獸 — 英文來源的矛盾攤開讓你自己判斷 | https://ducorn.com | 投資; 健康; 判斷 | 2026/04/29 08:25:06 | ChatGPT 讓你變笨？真正被外包的是第一個判斷 |
 | [Feed](https://www.cssforest.org/feed/) | CSS森林 | https://www.cssforest.org/ | 生活随笔; 交互体验; 前端; 学习思考 | 2026/06/18 14:37:00 | 『在家』这半年 |
-| [Feed](https://rssweball.top/feed/afaf2a3c-e11a-4783-a358-9e2d20d76a69.xml) | fengc's Blog | https://fengcblog.880200.xyz/ | 摄影习作; 摄影闲扯; 相关测试; AI视频 | 2026/06/24 16:42:28 | 摄影习作: 墨池独秀 |
+| [Feed](https://rssweball.top/feed/afaf2a3c-e11a-4783-a358-9e2d20d76a69.xml) | fengc's Blog | https://fengcblog.880200.xyz/ | 摄影习作; 摄影闲扯; 相关测试; AI视频 | 2026/06/28 16:40:08 | 摄影习作: 一叶浮生 |
 | [Feed](https://ftz.is-a.dev/rss.xml) | for_the_zero的小站 | https://ftz.is-a.dev/ | 编程; 前端; 软件开发; 思考; 随笔; AI; Web开发 | 2026/06/07 16:00:00 | ZapStartTab - 只是专注于打开网页的简陋新标签页 |
 | [Feed](https://blog.moran.im/rss.xml) | 廊桥遗梦 | https://blog.moran.im | 随笔; 生活; 教程 | 2026/04/24 12:26:00 | 为了回坑明日方舟，我给自己写了个 Skill |
-| [Feed](https://blog.mfwt.top/index.php/feed/) | 枫林灯语 | https://blog.mfwt.top/ | 编程; 生活; 技术; 无线电; 网络 | 2026/06/24 15:18:00 | 每日牢骚：便宜宾馆历险记 |
+| [Feed](https://blog.mfwt.top/index.php/feed/) | 枫林灯语 | https://blog.mfwt.top/ | 编程; 生活; 技术; 无线电; 网络 | 2026/06/28 15:53:46 | JustWrite：只要写，就行了 |
 | [Feed](https://neilmin.com/zh/posts/index.xml) | Neil的自留地 | https://neilmin.com/ | 编程; 生活; 笔记; 随想 | 2026/06/13 14:00:00 | RocksDB 是怎么工作的：一份 LSM-Tree 的极简笔记 |
-| [Feed](https://www.coderlock.site/index.php/feed/) | 寒夜雨 | https://www.coderlock.site/ | 编程; 生活; AI; 随想 | 2026/06/24 14:44:00 | 【Rethink Math】矩阵论的几何理解：矩阵微积分 |
+| [Feed](https://www.coderlock.site/index.php/feed/) | 寒夜雨 | https://www.coderlock.site/ | 编程; 生活; AI; 随想 | 2026/06/27 14:35:00 | 【Rethink Math】矩阵论的几何理解：施密特正交化与QR分解 |
 | [Feed](https://blog.224418.xyz/rss2.xml) | 傥师妹TangShiMei的小空间 | https://blog.224418.xyz/ | 技术; 生活; 随笔; 折腾 | 2026/06/04 12:02:00 | 考试连起来了家人们——倒霉熊不是停播了嘛 |
 | [Feed](https://qingccl.github.io/rss.xml) | QingCCL | https://qingccl.github.io/ | 文学; 读书; 随笔; 技术 | 2026/06/10 00:00:00 | 辣椒 |
