@@ -31,7 +31,8 @@ def get_domain(url):
 # Blacklist of feeds that are known to be inaccessible or problematic.
 # Or which use fake timestamps(e.g update time every day but no new post).
 BLACK_LIST = [
-    "https://www.ruanchaomin.com/"
+    "https://www.ruanchaomin.com/",
+    "https://dusays.com/"
 ]
 
 BLACK_LIST_DOMAINS = {get_domain(url) for url in BLACK_LIST}
