@@ -1,6 +1,7 @@
 """
 Parse README.md blog list, check each feed's last updated time and latest post title,
-write results to last_updated.md.
+and fall back to checking the blog URL when the feed is unavailable. Write results
+to last_updated.md.
 """
 
 import re
@@ -165,6 +166,25 @@ def fetch_feed(url):
         return None, str(e)
 
 
+def is_url_accessible(url):
+    """Return whether a non-feed URL can be reached."""
+    if not url:
+        return False
+
+    req = urllib.request.Request(
+        url,
+        headers={'User-Agent': 'Mozilla/5.0 (compatible; FeedChecker/1.0)'},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            # Opening the response is enough to verify its HTTP status. Read a
+            # byte so the request also works consistently with lazy clients.
+            resp.read(1)
+        return True
+    except Exception:
+        return False
+
+
 def parse_feed(data):
     """Parse XML feed, return (last_updated, last_post_title)."""
     try:
@@ -269,15 +289,21 @@ def parse_feed(data):
 def check_entry(entry):
     feed_url = entry['feed_url']
     if feed_url is None:
-        return entry, '-', '-'
+        if is_url_accessible(entry['address']):
+            return entry, '-', '-'
+        return entry, '!', '!'
 
     domain = get_domain(feed_url)
     if domain in BLACK_LIST_DOMAINS:
-        return entry, '-', '-'
+        if is_url_accessible(entry['address']):
+            return entry, '-', '-'
+        return entry, '!', '!'
 
     data, err = fetch_feed(feed_url)
     if err or data is None:
-        return entry, 'x', 'x'
+        if is_url_accessible(entry['address']):
+            return entry, 'x', 'x'
+        return entry, '!', '!'
 
     updated, last_title = parse_feed(data)
     formatted_updated = format_date(updated or 'x')
@@ -308,7 +334,8 @@ def write_results(path, now, results):
         '# Last Updated\n',
         f'> Generated at {now}\n',
         '> - `-` : no feed URL or blacklisted\n',
-        '> - `x` : feed inaccessible or parse error\n\n',
+        '> - `x` : feed inaccessible or parse error\n',
+        '> - `!` : website URL inaccessible (checked only when the feed is unavailable)\n\n',
         '| RSS feed | Introduction | Address | tags | last_updated | last_post |\n',
         '| --- | --- | --- | --- | --- | --- |\n',
     ]
