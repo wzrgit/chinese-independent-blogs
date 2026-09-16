@@ -2,6 +2,32 @@
 
   [![](https://badgen.net/badge/icon/Website?icon=chrome&label)](https://feeds.pub/cn-indie)  [![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/indieBlogs)  [![](https://badgen.net/badge/icon/Blog?icon=chrome&label)](https://blog.t9t.io/cn-indie-blogs-2019-10-29/) [![g-star](https://gitcode.com/timqian/chinese-independent-blogs/star/badge.svg)](https://gitcode.com/timqian/chinese-independent-blogs)
 
+## 本地博客管理台
+
+项目包含一个 Node.js + Vue 的本地管理页面。它读取 `blogs-original.csv` 作为主数据，并把网站类型、语言、评级、探测时间、访问状态和“不再探测”配置写入 `local.json`。
+
+```bash
+npm install
+npm run dev
+```
+
+浏览器打开 `http://localhost:4174`。生产环境可执行 `npm run build && npm start`，然后访问 `http://localhost:4173`。
+
+开发和生产启动命令会让 Node.js 的网络请求读取 `HTTP_PROXY`、`HTTPS_PROXY` 和 `NO_PROXY`。例如：
+
+```bash
+export HTTP_PROXY=http://127.0.0.1:8099
+export HTTPS_PROXY=http://127.0.0.1:8099
+export NO_PROXY=127.0.0.1,localhost
+npm run dev
+```
+
+需要 Node.js 22.21 或更高版本支持 `--use-env-proxy`。修改代理环境变量后需重新启动服务。
+
+首次或需要按 CSV 重新生成本地数据时可执行 `npm run init:data`。该命令会覆盖已有的 `local.json` 编辑记录。
+
+全局设置中可以调整每页显示数量，也可以启动 12 路并发探测。有 Feed 的站点会读取并保存最近文章，没有 Feed 的站点会检测网站访问状态；标记为“不再探测”的站点会跳过，上次无法访问且未满一个月的站点也会跳过。全局设置、探测结果和上次全局探测完成时间均写入 `local.json`。
+
 ## Sponsors
 
 [琚致远](https://github.com/juzhiyuan) | [Bytebase](https://bytebase.com/) | [Madao](https://madao.me/) | [SecondState](https://bit.ly/3gfWwps)
@@ -1543,4 +1569,3 @@
   - [Netlify](https://www.netlify.com/)
   - [Vercel](https://vercel.com/)
   - [Cloudflare Pages](https://pages.cloudflare.com/)
-
